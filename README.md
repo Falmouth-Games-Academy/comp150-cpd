@@ -9,4 +9,5 @@ With this being my first "proper" week at University, I am now beginning to beco
 ## Week 3 - Beginning 26th September
 This week I actually started to begin using the IDE's and the first programming language that I would have to become familiar with, which is Python, and unluckily for me I have quite limited experience with Python as I used different languages in my BTEC course, but I'm beginning to pick up the fundamentals from the books and papers included in the "Further Learning" sections, and also the books that were suggested to me at the beginning of the course. In one of this weeks sessions we all put ourselves into pairs and were given a task to rectify some issues with a block of code, and although me and my partner succesfully completed the task, we spent a fair amount of time scrathing our heads as were not very familiar with Python's finer details and the way the code had to be formatted, so that was defenietly this weeks challenge, and  to overcome this I will start using the knowledge that I have started gaining from the "Further Learning" materials and put it into practice. 
 
-## Week 3 - Beginning 3rd October
+## Week 4 - Beginning 3rd October
+This week we have been delving deeper into Python with introduction of Pygame,  
