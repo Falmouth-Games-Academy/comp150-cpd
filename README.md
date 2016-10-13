@@ -11,3 +11,9 @@ This week I actually started to begin using the IDE's and the first programming 
 
 ## Week 4 - Beginning 3rd October
 This week we have been delving deeper into Python with introduction of Pygame, and thus began to learn how to create and manipulate objects and texts onscreen, which I managed to get working relatively quickly but quickly became bogged down by reformatting my code and making it look good rather than doing what the other members of the group were experimenting with their code, I think this weeks challenge is my OCD, and as I have now been told by my classmates and lecturers, it's more important to make sure that your code works first and then format it, where as I was just worrying about what it looked like and how it was layed out and thus I was holding myself back by worrying about it, where as others were furthering their understanding of the language and Pygame, so to overcome this problem I will now endervor to make sure that my code works before I begin formatting it as function is much more important than form.
+
+## Week 5 - Beginning 10th October
+This week was another full to the brim with learning, this time it as mainly focusing on utilizing version control for use in projects and working in teams, which we will be doing in an upcoming assignment, namely Comp 120, and as always with using new software, I have been struggling with remembering what operations and commands to use when using Git and TortoiseGit, such as Push and Commit, and as having my and my partners code sync up and have no compatibility issues, which could cause issues with time managment and meeting our deadline, so nailing this issue is of the upmost importance, which I will endevour to do by installing both pieces of software at home and practice using them by updating and creating all of the folders nessecery for my upcoming projects.
+
+
+
