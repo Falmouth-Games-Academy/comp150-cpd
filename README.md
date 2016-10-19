@@ -15,5 +15,5 @@ This week we have been delving deeper into Python with introduction of Pygame, a
 ## Week 5 - Beginning 10th October
 This week was another full to the brim with learning, this time it as mainly focusing on utilizing version control for use in projects and working in teams, which we will be doing in an upcoming assignment, namely Comp 120, and as always with using new software, I have been struggling with remembering what operations and commands to use when using Git and TortoiseGit, such as Push and Commit, and as having my and my partners code sync up and have no compatibility issues, which could cause issues with time managment and meeting our deadline, so nailing this issue is of the upmost importance, which I will endevour to do by installing both pieces of software at home and practice using them by updating and creating all of the folders nessecery for my upcoming projects.
 
-
+## Week 1 - Beginning 17th September
 
