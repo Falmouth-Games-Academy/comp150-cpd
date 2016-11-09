@@ -24,5 +24,7 @@ This week's challenge revolved around the comp 120 project with my partner, Nath
 ## Week 8 - Beginning 31st October
 This week's challenge was came to me in the form of the presentation that we had to give for the comp150 Agile Development question, as discussed in previous weeks I have trouble with presenting due to my displeasure when talking in front of groups of people, and this week it was worse due to the fact that I had totally forgotten that the presentation was taking place and had not reviewed my notes and thus had to improvise most of what I said on the spot and thus stammered and stumbled over my words a lot, so in future to aid my performance in presentations I will write it down on my calander and review my notes the night before.
 
+## Week 9 - Beginning 1st November
+I actually encountered very few challenges this week, but again Nathan was not in during the COMP120 session on a Wednesday, and as the deadline is next Monday I needed to discuss with him the finishing touches we need to do to our code so that it is submission worthy and get the highest mark possible, and thus I had to try and get hold of him on social media 
 
 
