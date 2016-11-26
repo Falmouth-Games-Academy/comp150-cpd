@@ -30,5 +30,8 @@ I actually encountered very few challenges this week, but again Nathan was not i
 ## Week 10 - Beginning 14th November
 This week's challenge was brought about by the introduction of the new COMP120 assignment which was tinkering audio, and due to me forgetting most of GCSE Science, I'm struggling to understand a lot of the theory behind it that is taught in lecture, and such am struggling to start my assignment, which will most likely end up in me struggling for time, so I will need to read further into the theory we are being taught so that I don't fall behind.
 
+## Week 11 - Beginning 21st November 
+Upcoming deadline for both essays
+
 
 
