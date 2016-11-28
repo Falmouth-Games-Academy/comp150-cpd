@@ -33,5 +33,8 @@ This week's challenge was brought about by the introduction of the new COMP120 a
 ## Week 11 - Beginning 21st November 
 Upcoming deadline for both essays
 
+## Week 12 - Beginning 28th November
+Still struggling with branching
+
 
 
