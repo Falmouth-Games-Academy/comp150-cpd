@@ -25,16 +25,16 @@ This week's challenge revolved around the comp 120 project with my partner, Nath
 This week's challenge was came to me in the form of the presentation that we had to give for the comp150 Agile Development question, as discussed in previous weeks I have trouble with presenting due to my displeasure when talking in front of groups of people, and this week it was worse due to the fact that I had totally forgotten that the presentation was taking place and had not reviewed my notes and thus had to improvise most of what I said on the spot and thus stammered and stumbled over my words a lot, so in future to aid my performance in presentations I will write it down on my calander and review my notes the night before.
 
 ## Week 9 - Beginning 7th November
-I actually encountered very few challenges this week, but again Nathan was not in during the COMP120 session on a Wednesday, and as the deadline is next Monday I needed to discuss with him the finishing touches we need to do to our code so that it is submission worthy and get the highest mark possible, and thus I had to try and get hold of him on social media 
+I actually encountered very few challenges this week, but again Nathan was not in during the COMP120 session on a Wednesday, and as the deadline is next Monday I needed to discuss with him the finishing touches we need to do to our code so that it is submission worthy and get the highest mark possible, and thus I had to try and get hold of him on social media so that we could discuss the issues and improve the final product.  
 
 ## Week 10 - Beginning 14th November
-This week's challenge was brought about by the introduction of the new COMP120 assignment which was tinkering audio, and due to me forgetting most of GCSE Science, I'm struggling to understand a lot of the theory behind it that is taught in lecture, and such am struggling to start my assignment, which will most likely end up in me struggling for time, so I will need to read further into the theory we are being taught so that I don't fall behind.
+This week's challenge was brought about by the introduction of the new COMP120 assignment which was tinkering audio, and due to me forgetting most of GCSE Science, I'm struggling to understand a lot of the theory behind it that is taught in lecture, and such am struggling to start my assignment, which will most likely end up in me struggling for time, so I will need to read further into the theory we are being taught so that I don't fall behind and ensure that I can create 
 
 ## Week 11 - Beginning 21st November 
-Struggling with Travis and Branching
+This week I feel that my progress has come a long way since the start of the semester as I have picked up a lot of new skills that will benefit my future work, such as improved presenting skills and bettered ability to work in a team, however, both the Research Journal and Agile Essay are due next week and I am really struggling with the "Academic" writing style that we are meant to write the reports in as in my previous education, this was not required of me and I am struggling to write anything without worrying that it is not up to scratch, which will affect my ability to actually complete the work on time, I will go back and look at the slides that Michael made and run my work through the tools that were linked at the start of the year.
 
 ## Week 12 - Beginning 28th November
-
+This week's challenge comes from soemthing that was introduced a couple weeks back but is still plaguing me this week and that is the use of Travis and Branching within out progamming projects, and although it is quite a minor part of our projects, I just can't seem to get my head around the way in which it works as it requires a quite a lot of code to get the testing scripts to work, but the rest of the team has it sorted so it is important that I understand it, or I might fall behind the rest of them, so to overcome this challenge, I will recap the presentation that Michael gave us, and also complete the tutorials that were gone over in class to better my understanding of the processes. 
 
 
 
