@@ -37,4 +37,6 @@ This week I feel that my progress has come a long way since the start of the sem
 This week's challenge comes from something that was introduced a couple weeks back but is still plaguing me this week and that is the use of Travis and Branching within out progamming projects, and although it is quite a minor part of our projects, I just can't seem to get my head around the way in which it works as it requires a quite a lot of code to get the testing scripts to work, but the rest of the team has it sorted so it is important that I understand it, or I might fall behind the rest of them, so to overcome this challenge, I will recap the presentation that Michael gave us, and also complete the tutorials that were gone over in class to better my understanding of the processes. 
 
 
+# comp160-cpd
 
+## Week 1 - Beginning 12th September
