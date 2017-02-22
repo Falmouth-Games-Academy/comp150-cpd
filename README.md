@@ -39,4 +39,8 @@ This week's challenge comes from something that was introduced a couple weeks ba
 
 # comp160-cpd
 
-## Week 1 - Beginning 12th September
+## Week 1
+This week's challenge comes from our introduction to the new programming language that we are going to be utilising, C++, and although I have some past experience with derivatives of it, I struggled to recollect any details and thus am back at the beginning, and as we are expected to utilise C++ in a worksheet relatively soon, I need to get on top of this problem and bring myself up to speed, so to overcome this I will visit Pluralsight and complete the relevant tutorials that will hopefully get me up to speed with what I need to know, thus allowing me to complete the worksheet with relative ease. 
+
+## Week 2 
+This week's challenge comes direct to me thanks to the group our group project, due to the fact that the majority of the team has been taught to use Perforce rather than GitHub, so we now have to utilise that method of version control so that we can keep our project up to date, as if I can't use the software, the developments and implementation of features that I cntribute to the project might clash with others and will delay the creative process and possibly hold the group up, to doctor this issue, I will again look at the tutorials outlined by some of the lecturers so that I can confidently use the software and not have to worry about creating problems for the rest of the team. 
