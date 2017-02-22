@@ -19,5 +19,3 @@
 # While the topics covered during lectures were interseting my understanding of them is quite vauge. To help my understanding I should read back over the session slides and my own personal notes to help further my understanding of these topics. 
 
 ## Week 4 
-
-# 
