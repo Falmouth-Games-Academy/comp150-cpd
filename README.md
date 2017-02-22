@@ -44,3 +44,6 @@ This week's challenge comes from our introduction to the new programming languag
 
 ## Week 2 
 This week's challenge comes direct to me thanks to the group our group project, due to the fact that the majority of the team has been taught to use Perforce rather than GitHub, so we now have to utilise that method of version control so that we can keep our project up to date, as if I can't use the software, the developments and implementation of features that I cntribute to the project might clash with others and will delay the creative process and possibly hold the group up, to doctor this issue, I will again look at the tutorials outlined by some of the lecturers so that I can confidently use the software and not have to worry about creating problems for the rest of the team. 
+
+## Week 3
+
