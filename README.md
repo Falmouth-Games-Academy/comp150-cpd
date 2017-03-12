@@ -47,3 +47,6 @@ This week's challenge comes direct to me thanks to the group our group project, 
 
 ## Week 3
 This weeks problem was with Blueprints in UE4 and the way in which they are used, mostly in how they can be implmemented with OOD, as without understanding how they can be implemented, my projects will be very inefficent and won't meet the marking criteria, so I will do some further learning to familiarise myself with them and how they can be used so that I can effectively make use of the blueprints and get my projects completed on time. 
+
+## Week 4
+This weeks problem came in the way of the academic essay, the topic that I picked was localisation, and my question compared this process for both games and normal software, as this topic is more heavily discussed with regards to normal software, there is very little material that can be used for the video games side, which means that I will not be able to form a solid argument unless I find some more evidence to support my arguments, so to overcome this problem I will look at more the information sources avalabile to me and find somre more evidence. 
