@@ -52,4 +52,7 @@ This weeks problem was with Blueprints in UE4 and the way in which they are used
 This weeks problem came in the way of the academic essay, the topic that I picked was localisation, and my question compared this process for both games and normal software, as this topic is more heavily discussed with regards to normal software, there is very little material that can be used for the video games side, which means that I will not be able to form a solid argument unless I find some more evidence to support my arguments, so to overcome this problem I will look at more the information sources avalabile to me and find somre more evidence. 
 
 ## Week 5
-This weeks challenge came from 160 with the introduction of sql databases, as I have not done anything like this before 
+This weeks challenge came from 160 with the introduction of sql databases, as I have not done anything like this before, it's a bit hard to grasp as there is a lot of linux commands to remember to get it to work, and connecting to it seems like a complex process, this probelm would cause problems down the road as we have to utilise the server later to work with our game, so to overcome this issue, I will consult the lecture slides that the lecturer has provided and complete the tutorials that are required so that I can use the server for next weeks lesson.
+
+## Week 6
+
