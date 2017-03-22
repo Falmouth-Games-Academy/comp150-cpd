@@ -55,9 +55,9 @@ This weeks problem came in the way of the academic essay, the topic that I picke
 This weeks challenge came from 160 with the introduction of sql databases, as I have not done anything like this before, it's a bit hard to grasp as there is a lot of linux commands to remember to get it to work, and connecting to it seems like a complex process, this problem would cause problems down the road as we have to utilise the server later to work with our game, so to overcome this issue, I will consult the lecture slides that the lecturer has provided and complete the tutorials that are required so that I can use the server for next weeks lesson.
 
 ## Week 6
-This weeks challenge came in the form of of problems with SVN, my team ran into some issues with conflictions while working 
+This weeks challenge came in the form of of problems with SVN, my team ran into some issues with conflictions while working on our team project, and although I had learned the basics of the sofware, we had not encountered any confliction yet and so this was a new problem for me. To overcome this issue, I will look into ways of resloving issues, or by enlisting the help of one of the BA's who has more experience with it, as without beign able to commit any of my work done to the project, which will affect my end grade so it is best if I get this sorted quickly.
 
 ## Week 7 
-Reading for assignements
+This weeks issue stemmed from the Research Journal, with the deadlines fast approaching, I quickly realized that I had not been doing my reading of papers each week as I had planned I would, and so I am quite behind with my work on this, so to rectify this issue, this term I will quickly have to go over my paper to get the assignment, as without reading them I will be unable to do my work. 
 ## Week 8
 Game programming time management
