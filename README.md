@@ -41,3 +41,25 @@
 ## Week 9
 
 # TODO
+
+## Key skills to improve
+
+## 1 Revision of topics covered in lectures
+
+# One of my greatest weaknesses is that I quickly forget a lot of work covered in lectures. While I have improved dramatically with note taking I do not go any further to gain greater understanding of what has been taught during a lecture. For example I do not go back over my notes and I do not read papers related to the topic of the lecture. I also find it is difficult to remember a lot of what is taught because it is not particualy applicable to a lot of the work we are currently doing. 
+
+## 2 Communication/leadership skills
+
+# During the last few months teamwork has been really essential to the group project we have been given. At the beginning of the project my communication with the team was very minimal and I was unwilling to take on tasks or communicate with my team about what tasks needed doing and I should be working on. Over the last few weeks I have improved my communication within the team hugely. I now ensure that I communicate with my team the work that I have done and try to start conversations about how we should implement certain features. However I would like to improve on my leadership skills and further improve my communication. During this project I was not very involved in the design of the game or in working with other team members to implement functions or assets. 
+
+## 3 Reading around the subject
+
+#
+
+## 4
+
+#
+
+## 5 
+
+#
