@@ -59,5 +59,9 @@ This weeks challenge came in the form of of problems with SVN, my team ran into 
 
 ## Week 7 
 This weeks issue stemmed from the Research Journal, with the deadlines fast approaching, I quickly realized that I had not been doing my reading of papers each week as I had planned I would, and so I am quite behind with my work on this, so to rectify this issue, this term I will quickly have to go over my paper to get the assignment, as without reading them I will be unable to do my work. 
+
 ## Week 8
 This  weeks problem stemmed from my lack of time management with my comp 140, although I have made progress with it and I will meet the deadline, I feel like my project could be better, and this is due to my lack of time management, and as I had vouched to work on this last term but it is still affecting my working practice, this needs to be worked on further to make sure my work can be completed on time and to a good standard in the future. 
+
+## Week 9
+Communication with team members about tasks
