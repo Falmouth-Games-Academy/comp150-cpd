@@ -65,3 +65,8 @@ This  weeks problem stemmed from my lack of time management with my comp 140, al
 
 ## Week 9
 Communication with team members about tasks
+
+## Week 10
+
+## Week 11
+Getting controller ready for after Easter
