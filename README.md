@@ -64,9 +64,9 @@ This weeks issue stemmed from the Research Journal, with the deadlines fast appr
 This  weeks problem stemmed from my lack of time management with my comp 140, although I have made progress with it and I will meet the deadline, I feel like my project could be better, and this is due to my lack of time management, and as I had vouched to work on this last term but it is still affecting my working practice, this needs to be worked on further to make sure my work can be completed on time and to a good standard in the future. 
 
 ## Week 9
-Communication with team members about tasks
+This weeks challenge came from the lack of communication within my team project, I found that I would complete work and then be told that it had already been taken on by someone else, which stems from my poor communciation skills and not checking if the SVN has been changed, so to work on this issue before I start work on any task, I will rendezvous with my SCRUM master and ask them, about it as my time will be spared and I will actually be able to produce work that is needed. 
 
 ## Week 10
-
+This weeks challenge came in the form of testing our servers that we have been working on, and although it worked in the end, I found it very frustrating trying to get it to work, and this was down to my lack of knowledge of said server, and although Mike had linked us to the documentation on it, I had not read it due to being too busy, but on reflection it was quite important that I got it to work as we are covering something similar to this next year, so knowledge of how it works is key, so to fix this I will go back over the documentation and try to better my undestanding. 
 ## Week 11
 Getting controller ready for after Easter
