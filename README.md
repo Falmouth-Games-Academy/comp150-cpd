@@ -40,8 +40,19 @@
 
 ## Week 9
 
-# TODO
+# This week has again mostly been devoted to working on the group game project. The highlight of the week was going to the 3rd year testing day, which gave an insightful amount of information into what could be potentially made at the end of the course. One thing that was particularly intersting to me was that some of the 3rd years were fixing bugs as players found them. I think this is a ver interesting approach and is definatley something that should be adopted in future play testing sessions. 
 
+##Week 10
+
+# As this is the final week before offical hand in, most of my time has been spent on the group game. Mostly I have been reworking the combat system with Brian's help. This week has been useful in teaching me more about unreal, specifically about how to work with animations as I had to attach hit boxes to the weapons and get them to move with the weapons. However as the process was rushed it was difficult to commit most of what I learned and used to memory. In future it would be good for me to have a more rigourous approach to making this kind of system so that I can learn and make them betting in the future. 
+
+##Week11
+
+# This week has been rather busy as I've been trying to make a completed build for the group game. This has been difficult as we have been using FMOD for sounds and there have been technical difficulties. With help we fixed these and handed in the copies of our game fine. One thing I have learned from this is that making regular executable builds is almost necessary in order to avoid last minute problems with creating playable builds. This would have been useful for us in order to avoid the last minute struggling. 
+
+##Week12
+
+# This week has mostly been used to work on the controller project. I've had a lot of issues with both building the controller and intergrating it with the game (mostly intergrating it with the game). A lot of this has come from a lack of preperation however. With help from tutors however I have got the controller built and have managed to intergrate the controller with my unreal game. Looking back on this project, it would have been good for me to put more time into it and prepare more. This would help me learn more about this kind of programming and would have helped me to make the final solution alot cleaner than it is. 
 ## Key skills to improve
 
 ## 1 Revision of topics covered in lectures
@@ -56,10 +67,6 @@
 
 # Another cause of weakness in my knowledge is due to my lack of reading around the subject. While I often look at articles and online posts about computing and hardware, I often find it difficult to sit down and read a whole paper as they are usually long and often difficult to understand. This is very important for someone working in a computing environment as scientific papers often showcase the most advanced and upcoming technologies. As computing is a fast paced field and is often devleoping it is important to keep up with developments so that it is possible to use and implement others knowledge. 
 
-## 4
+## 4 Lack of preperation 
 
-#
-
-## 5 
-
-#
+# As a person I heavely dislike planning and much prefer just jumping straight into a project or into doing the work. While this may work for some projects (especially with larger amounts of people, where individuals are more just cogs in a machine), I've found that for individual group projects this has hindered me greatly. In future it would be good to spend more time planning my projects out and making planning documents early on into a project. Which would help to better learn, understand and create whatever the project entails. 
