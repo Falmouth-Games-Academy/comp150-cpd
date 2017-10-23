@@ -77,7 +77,7 @@ and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 9~~
+## ~~Week 9~~
 
 and so on...
 
