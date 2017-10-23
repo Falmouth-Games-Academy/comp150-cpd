@@ -1,8 +1,7 @@
 # COMP150 - Reflective Journal to Accompany My CPD Report
+*You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to.*  
 
-You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
-
-This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.
+*This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
 
 ## Week 0 (September 18th 2017)
 This week I participated in the Robot Olympiad. It was tough.
@@ -46,7 +45,7 @@ How to improve: take more regular breaks during studio practice. Evidently, we c
 
 
 ## Week 4 (October 16th 2017)
-This week we kicked off some actual development. The team’s good. I'm confident. We gonna make a game!
+This week we kicked off some actual development. The team’s good. I'm confident. We gonna make sum gamez!
 
 Timekeeping has been good. We all know when we’re meeting up and the meetings have happened on time with no absences. Stand-ups ensure we all play a part.
 
@@ -54,49 +53,49 @@ Negotiating with Beren however is a challenge--we have differences in opinions w
 
 I plan to discuss this at the next contractor meeting. My goal is to clarify and ensure we have a proper review strategy in place that favours a team consensus on coding choices. I'll also emphasise my discomfort in my code being changed without permission.
 
-## Week 5
+## ~~Week 5~~
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
 Weekly journal goes here. Reflect.
 
-## Week 6
+## ~~Week 6~~
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
 Weekly journal goes here. Reflect.
 
-## Week 7
+## ~~Week 7~~
 
 and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 8
+## ~~Week 8~~
 
 and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 9
+## Week 9~~
 
 and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 10
+## ~~Week 10~~
 
 and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 11
+## ~~Week 11~~
 
 and so on...
 
 Weekly journal goes here. Reflect.
 
-## Week 12
+## ~~Week 12~~
 
 and so on...
 
