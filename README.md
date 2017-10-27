@@ -22,7 +22,7 @@ I think this week went well, I believe my prior experience gave me a head start 
 
 Tinkering Graphics, the Agile Philosophy, and Journal Articles in Computing
 
-I found that week 2 was as standard to week 1. 
+I found that week 2 was as standard to week 1. Agile and scrum philosophy gave me a much better insight into working as a team. Tinkering graphics went much like week 1 and I had very little issues with learning and understanding the work set. I feel confident working with python and working with the agile philosophy
 
 ## Week 3
 
