@@ -8,7 +8,8 @@ This will prove to be a considerable aid when you need to identify the most impo
 
 Induction Week and the Robot Olympiad
 
-Weekly journal goes here. Reflect.
+I believe that the robot Olympiad as a team building exercise went well, although our team came last within the course it was a great ice breaker to meet other people. I believe our team failed due to two robots being built at once and only two people understanding the code.
+To improve on this the people with understanding of the code should have shown other members of the team the code base and assigning roles to members of the team with little to do
 
 ## Week 1
 
@@ -20,13 +21,14 @@ Weekly journal goes here. Reflect.
 
 Tinkering Graphics, the Agile Philosophy, and Journal Articles in Computing
 
-Weekly journal goes here. Reflect.
+Week 2 was our introduction to Python and Pygame and also the start of our regular lessons. Although I already had an understanding of python, I had never used Pygame before. Pygame I found quite intuitive and had my program up and running quite quickly. I enjoyed playing SpaceChem and finished all of the stretch goals that were given with it.
+I think this week went well, I believe my prior experience gave me a head start in a lot of the lessons this week.
 
 ## Week 3
 
 Starting my Tinkering Graphics Assignment, Pitching my First Game Concept, and Version Control
 
-Weekly journal goes here. Reflect.
+I found version control quite difficult to understand originally. I found Github difficult to use and not very intuitive, however as I had been learning it throughout the week I’m finding it easier to use. I think that using Github is going to become easier to use with practice. My first game concept I think went quite poorly, I put too much effort into the handout and created the presentation as an afterthought. I also think my idea was quite boring compared to a lot of other peoples with little creative flair.
 
 ## Week 4
 
