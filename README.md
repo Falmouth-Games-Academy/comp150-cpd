@@ -13,7 +13,7 @@ I will discuss the design possibilities with the team and experiment with severa
 
 ## Week 1
 
-It has been a week and I am still concerned the inhabitants here may see through my flimsy disguise. I shall have to be careful.
+It has been a week (by the light of the nearest star) and I am still concerned the inhabitants here may see through my flimsy disguise. I shall have to be careful.
 
 Already I have been thrown together with a group of the natives to design a game concept. While communication and collaborative work took a short while to develop, it was generally very successful and was an interesting experience in teamwork. The necessary research into the business side of the design was also exceptionally useful.
 
@@ -42,9 +42,11 @@ Another small challenge was met during the 120 coding sessions, when the code fr
 
 ## Week 5
 
-Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
+As I write, it has been more than a month by the standards of this far flung rock and help shows no sign of appearing. Most of this week has been spent focusing on the game project where I have made progress on cleaning up and documenting the character creation code. Our first coding assignment, was also due this week, so some time was spent refactoring it to be neater and more modular.
 
-Weekly journal goes here. Reflect.
+Some challenges have occurred during our game project, the most prominent being the lack of a unified structure to the game onto which individuals can build features. This has slowed us down by necessitating that people write their own code for things that should be an integral part of the game, for example, rendering the game window.
+
+To remedy this, we will be working on a core framework as a team. This framework should primarily consist of the game loop, into which people can plug their code. In addition, we will write an overview of the classes that need to be written and the functions that they should perform, after which people can choose classes to write, building up a library of relevant methods for the game.
 
 ## Week 6
 
