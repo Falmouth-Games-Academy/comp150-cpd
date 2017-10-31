@@ -53,11 +53,12 @@ Negotiating with Beren however is a challenge--we have differences in opinions w
 
 I plan to discuss this at the next contractor meeting. My goal is to clarify and ensure we have a proper review strategy in place that favours a team consensus on coding choices. I'll also emphasise my discomfort in my code being changed without permission.
 
-## ~~Week 5~~
+## Week 5 (October 23rd 2017)
+This week I worked with my team to develop Frontier. It went well! Too well! Development was on time, and the sprint goal of having a cohesive central app structure was achieved in one day.  
 
-Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
+So since I communicated well and managed my time successfully(!?) this week, let's look at my programming skills! While I'm learning several things about Python, one of the things I've noticed is that *Python class variables of class types don't work as I expect*. Specifically, creating a collision parameter class in the variable definitions makes one that is *shared across all instances*! I fixed this by *updating Object.__init__ to instantiate one*.  
 
-Weekly journal goes here. Reflect.
+However, this introduces a new concern. *New object types require this instantiation.* I *haven't informed the team* yet; this will cause crash bugs if they try to implement new classes and forget about the params (which even I do!). I have considered remedying this by *providing a shared default value*, but that could be *accidentally changed*. Therefore *a crash is actually preferred behaviour*, as it informs programmers of their mistake. Instead I will add a reminder into the skeleton.py file immediately and ensure the team knows of it in the next standup.
 
 ## ~~Week 6~~
 
