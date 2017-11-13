@@ -60,17 +60,19 @@ So since I communicated well and managed my time successfully(!?) this week, let
 
 However, this introduces a new concern. *New object types require this instantiation.* I *haven't informed the team* yet; this will cause crash bugs if they try to implement new classes and forget about the params (which even I do!). I have considered remedying this by *providing a shared default value*, but that could be *accidentally changed*. Therefore *a crash is actually preferred behaviour*, as it informs programmers of their mistake. Instead I will add a reminder into the skeleton.py file immediately and ensure the team knows of it in the next standup.
 
-## ~~Week 6~~
+## Week 6
+What began as a game week soon turned into an essay week. What went well was that I did **self-motivated work in the studio** every weekday. After the team efforts started to slow down, I used the time to work on my agile essay. According to my research self-motivated work, especially in a group, is usually the most beneficial to learning. Score!  
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
+Something that gave me a massive headache **sprite rotation in pygame**. The nature of its sprite rotation is extremely weird; create a 32x32 image, put a dot in a corner, rotate it and watch the crazy path that dot takes in what should intuitively be a simple circle. I **spent hours** on that, including one which probably left Tomas with nothing to do. I feel bad for that, and **shouldn't have focused so much on it**.  
 
-Weekly journal goes here. Reflect.
+I know I need to **reduce my focus** on things to leave room for others. I wrote this entry retrospectively after Week 7 where it was also a concern. I can't think of a smart goal for it--this is probably one of my autistic traits and nobody's cured autism just yet--but I raise my full awareness.  
 
-## ~~Week 7~~
+## Week 7
+This week was essay week: the sequel. It's so hard to tell what went right; from that I already know what went wrong. Perhaps what went right was the **attempted application of tasksetting** while working in the library on the essays. I used Trello to set up reviews and updates for the agile essay; this process was helpful in revision.  
 
-and so on...
+What went wrong: **focus**. I'm **too focused** on the essays before review, revising every paragraph several times while asking myself why I'm doing it. The marks will be useful, but are nothing more than critique. Furthermore, I could be working on the group game, programming the Lego robot, or preparing my 3D modeller for release. I'm racing towards a constantly moving qualitative finish line never knowing if I'm passing enough checkpoints.  
 
-Weekly journal goes here. Reflect.
+To improve, I shall **continue panicking** helplessly. I'll see if my heavy focus on my research question impacts the agile essay and if the structure of my computing essay is considered harmful--til then, they are qualities that are good in my eyes. I **will adjust accordingly** for my next essays depending on the feedback I get, **as soon as I get it**.  
 
 ## ~~Week 8~~
 
