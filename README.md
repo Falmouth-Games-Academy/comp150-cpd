@@ -74,11 +74,14 @@ What went wrong: **focus**. I'm **too focused** on the essays before review, rev
 
 To improve, I shall **continue panicking** helplessly. I'll see if my heavy focus on my research question impacts the agile essay and if the structure of my computing essay is considered harmful--til then, they are qualities that are good in my eyes. I **will adjust accordingly** for my next essays depending on the feedback I get, **as soon as I get it**.  
 
-## ~~Week 8~~
+## Week 8
+Essay submission week! Isn't it fun!!? The sun is shining, the papers are flying and my team is dying.
 
-and so on...
+And now for something entirely different: **peer review skills!** Turns out I follow a philosophy of thorough feedback to help a writer improve. The problem is when this is coupled with a rubric, **I don't have enough time**. It's expected that if I can't review six 1000-word essays to 9 criteria of 6 particular competency levels whilst giving constructive feedback in two hours, I'm not going through them fast enough. This is **extremely pressuring** for me as I'm a slow reader and a slower interpreter. I have the alternative of getting better in-class feedback, and a break, by working less thoroughly but I don't feel this would be condusive to helping others develop.
 
-Weekly journal goes here. Reflect.
+On the bright side, I feel I was good at taking the feedback I was given. **I identified several flaws** in my work with it; while that doesn't sound like a good thing, it gave me time to rewrite a large portion of my work. I am very tired.
+
+SMART Objective goes here.
 
 ## ~~Week 9~~
 
