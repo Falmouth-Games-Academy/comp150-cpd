@@ -1,8 +1,54 @@
 Key skills ----------
-Affective domain: Emotional pressure destroying personal productivity in light of a) team management (scrum board, wanting to commit, standup ambiguity) b) pair programming (slowing down for people of lower average skill), c) handling multiple assignments at once
-Interpersonal domain: Handling the Lego Robot Olympiad and pair programming
-Dispositional domain: Focusing too hard on essays, losing weekends to it
-Cognitive domain: Management of programming "mysteries", e.g. Python classes in classes requiring instantiation
+== Affective domain ==
+Emotional pressure destroying personal productivity in light of handling multiple assignments at once
+SMART plan:
+During any period where I have a specific deadline, I will mark the importance of the assignments in a logical holistic way based on my aspirations, and allocate `time factor' to them during `planning sessions'. The `time factor', between 0 and 100 will roughly reflect the amount of time I should dedicate to the task during the week, based on my perceived importance of them. My `planning sessions', or at least a review, will occur whenever a submission deadline is hit. In cases where there are more than one deadline within the week, I may optionally postpone the session until the weekend, but no later. This wil be written on my tiny baby whiteboard.
+
+To measure my response to this method, I will record the number of hours I've spent on each piece of work on my phone. If there is a mismatch between my intended work timeframe and my actual one per week, I will revise the strategy, or ignore the error in the case of extenuating circumstances (e.g. illness).
+
+I have yet to decide an app for recording time, but I will experiment with some of the options on the below webpage:
+https://blog.hubstaff.com/best-time-tracking-app-for-android/
+
+Should I find no appropriate free app, I will look further for one that can record time and categorise the total recordings.
+
+== Interpersonal domain ==
+Handling the Lego Robot Olympiad and pair programming
+
+== Dispositional domain ==
+Focusing too hard on essays, losing weekends to it
+
+My approach to the essay was writing a WIP draft 2 weeks B.S (Before Submission).
+Expanding it to an almost-finished draft 1 week B.S, during which I had a brief peer review with Sam
+During the submission week, I 
+
+This is contrary to Al's suggestion, which was to write about 20 words a week. However, I feel that my focus on 
+
+e.g. approaching the essay(s), what strategy did I use and why did time become a problem
+
+
+== Cognitive domain ==
+Management of programming "mysteries", e.g. Python classes in classes requiring instantiation
+Choose a topic that I found challenging or needed to adapt to. Refers to the things I learned.e
+e.g. knowledge and understanding of data structures
+
+I resolved this by coming up with a 'None' solution where in 'None' is an acceptable value for these classes. This sucked. But it allowed the programmer not only to forget to instantiate collision, but not to bother instantiating it at all when an object wasn't solid. The rationale was that we couldn't afford a miscommunication in the team should the team choose to make a new object subclass.
+
+SMART plan:
+My main challenge was identifying good programming practice. The best resolution is to discuss it with the team. Therefore, I will attempt to initiate a code review meeting this Friday on the 26th November 2017. During this, I will present to my team the challenge, and ask each member how they would deal with it, individually, ensuring the opinion is purely their own. I will note down their suggestion. Then, I will critique their commentary, asking how they would address a) team members forgetting to instantiate the class, b) performance, c) ease of implementation, d) line count, etc. My measurement of success will entirely depend on whether a single solution has been accepted by the entire team--that may not happen, but will still justify the exploration of alternatives, and I will have formed a personal opinion from the various techniques.
+
+
 Procedural domain: Attempting to resolve the collision detection (or rotation) problem
+The approach to applying existing knowledge to new problems, usually problem solving, e.g. how do I sart writing a program. More experiential in the sense that it was attempted but e.g. not satisfied.
+e.g. approach to incorporating that data structure knowledge into a program
 
 What I did, what went wrong, how I would do it next time/how I resolved it
+
+
+
+SMART goals ----------
+Specific, measurable, achievable, relevant and time-bound
+They should be specific with no ambiguity. What, who where when why and how to achieve.
+A goal needs to be measurable so that I know whether I achieved it. e.g. How much and how many.
+Achievable: Is the goal affordable, do I have time, do I have the talent, are there any foreseeable obstructions that will prevent it from happening? Getting this wrong can impact motivation.
+Relevant: Relevant to my aspirations and interests. Will the skill be needed. Am I the one to do it. Is there time.
+Time: Not only helps goals happen on time, but prevents them from piling up with their ambiguous timeframes. Setting a time means things can actually get done by setting up an order, etc.
