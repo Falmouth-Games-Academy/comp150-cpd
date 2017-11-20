@@ -77,7 +77,7 @@ To improve, I shall **continue panicking** helplessly. I'll see if my heavy focu
 ## Week 8
 Essay submission week! So fun!!! The sun is shining, the papers are flying and my will is dying.
 
-And now for something entirely different: **peer review skills!** Turns out I write thorough feedback to help my subject improve. The problem is when this is coupled with a rubric, **I don't have enough time**. It's expected that if I can't review ten 1000-word essays to 9 criteria of 6 competency levels each whilst giving constructive feedback in three hours, I'm not doing through them fast enough. This is **extremely pressuring** for me, as I'm a slow reader and a slower interpreter. I have the alternative of working less thoroughly and taking advantage of a break, but I don't feel this would be condusive to helping a peer develop.
+And now for something entirely different: **peer review skills!** Turns out I write thorough feedback to help my subject improve. The problem is when this is coupled with a rubric, **I don't have enough time**. It's expected that if I can't review ten 1000-word essays to 9 criteria of 6 competency levels each whilst giving constructive feedback in three hours, I'm not doing them fast enough. This is **extremely pressuring** for me, as I'm a slow reader and a slower interpreter. I have the alternative of working less thoroughly and taking advantage of a break, but I don't feel this would be condusive to helping a peer develop.
 
 On the bright side, I was confident in taking the feedback I was given. **I identified several flaws** in my work with it; while that doesn't sound like a good thing, it gave me time to rewrite a large portion of my work. I was very tired.
 
