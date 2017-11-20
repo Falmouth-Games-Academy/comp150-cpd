@@ -48,15 +48,12 @@ Me and Sam got quite alot of work done on our teams game. We went in at 9am ever
 
 ## Week 7
 
-and so on...
 
 Got a new Pair Proramming partner, I was quite relieved because me and Sam have been working together quite alot on our game and I know he's a really good programmer which I'm sure will help with our contract and help me to learn more about coding when we work together in class. I was really worried about the group presentation over the weekend. I just feel sick with nerves when standing and speaking in front of people. Hopefully doing it more will help me get over that feeling. Spent basically the entire weekend writing my draft for the agile essay and doing research into the Research Journal. I really need to start doing these things earlier, I tend to leave things that are difficult to the last minute because I worry about them which is a really bad habit. Ironically if I did them earlier I wouldn't worry so much and I definitely feel more motivated to do them when I get into the process. I don't really think My research journal or essay will be very good but who knows.
 
 ## Week 8
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Relieved that the Essay and Research Journal are done, luckily i found the topic of AI quite interesting so the Journal wasnt as bad as it could have been. I think the other papers would have been too over my head at the moment to interest me. Most of  wednesday and thursday was spent doing the essays so not a lot of work got done on our game or audio assignment outside of lessons. Need to start committing more to github, we all do in the team i think, we also should start working on our group presentation or i can see it being done the day before which wouldn't be ideal. We should have enough of a prototype to show, whether its impressive enough is another matter. The tinkering audio seems interesting but really confusing at times. Should probably review the slides some more. 
 
 ## Week 9
 
