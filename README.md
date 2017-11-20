@@ -14,7 +14,7 @@ During this week I initially had trouble interacting with other students. My per
 
 From Concepts to Design and Commerce, An Introduction to Python Programming and PyGame, and Computing Fundamentals
 
-On monday we had to come up with our own game concepts, I found this quite challenging as I'm not very creative on-the-fly and dont really like having to improvise. It was good having a couple of other people to discuss possible idead though. Teamwork really helps with idea generation apparently.  The pair programming we were introduced too seems like a really good idea, having someone help point out problems sounds like a great way to learn more quickly although the partner I've been assigned too seems very quiet. Hopefully once we get to know each other it won't be such a big problem.
+On monday we had to come up with our own game concepts, I found this quite challenging as I'm not very creative on-the-fly and dont really like having to improvise. It was good having a couple of other people to discuss possible ideas though. Teamwork really helps with idea generation. The pair programming we were introduced too seems like a really good idea, having someone help point out problems sounds like a great way to learn more quickly although the partner I've been assigned too seems very quiet. Hopefully once we get to know each other it won't be such a big problem.
 
 ## Week 2
 
@@ -32,19 +32,19 @@ I think my game concept pitch went quite well considering how stressed out I was
 
 Met my Team for the Game Development Project! More Programming and Learning about Logic and Academic Writing
 
-I'm in a new team although a couple of the people are from the first team we were put into. I hope we can sort out the communication issues we had from before. I'm finding that we seem to be falling behind on the tinkering graphics exercises, the lesson goes quite quickly and having to look everything up is quite time consuming, especially if you  arent sure you fully understand the previous exercise. Hopefully fiddling with the code in my spair time with my pair programmer will help. It's good to have someone to bounce ideas off and pick up your mistakes. Coming up with a research question was really difficult, it's difficult thinking of one when I'm so unfamiliar with Agile, hopefully more research later will make narrowing it down easier but not having done much academic research before may be a big problem.
+I'm in a new team although a couple of the people are from the first team we were put into. I hope we can sort out the communication issues we had from before. I'm finding that we seem to be falling behind on the tinkering graphics exercises, the lesson goes quite quickly and having to look everything up is quite time consuming, especially if you  arent sure you fully understand the previous exercise. Hopefully fiddling with the code in my spare time with my pair programmer will help. It's good to have someone to bounce ideas off and pick up your mistakes. Coming up with a research question was really difficult, it's difficult thinking of one when I'm so unfamiliar with Agile, hopefully more research later will make narrowing it down easier but not having done much academic research before may be a big problem.
 
 ## Week 5
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
-I think our contract works as the brief asks. I don't think its particularly creative or efficient though. I'm pretty sure we could have made it alot better if we knew more about pygame. The time complexity seems interesting, I think I need to do some further learning for the worksheet though, it seems quite complicated and sometimes my mind wanders in Comp110 because the room is so hot and its the end of the day on a Friday. I'll need to look through the slides again. I think the research journal is going to be quite difficult, it's going to take a lot of time just to read the papers, having skimmed a few they all seem pretty foreign to me, I dont really thing I know enough about computing to write anything decent. 
+I think our contract works as the brief asks. I don't think its particularly creative or efficient though. I'm pretty sure we could have made it alot better if we knew more about pygame. The time complexity seems interesting, I think I need to do some further learning for the worksheet though, it seems quite complicated and sometimes my mind wanders in Comp110 because the room is so hot and its the end of the day on a Friday. I'll need to look through the slides again. I think the research journal is going to be quite difficult, it's going to take a lot of time just to read the papers, having skimmed a few they all seem pretty foreign to me, I dont really think I know enough about computing to write anything decent. 
 
 ## Week 6
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
-Me and Sam got quite alot of work done on our teams game. We went in at 9am every day but one which really helped progress the game. Other members of our team don't seem to be quite as involved unfortunately, including our scrummaster which makes planning and such quite difficult. At least I got quite a lot done and I'm learning more and more about pygame, some things are still a bit confusing but the code works. I need to keep making to commits to Github to show my individual contributions to the development process. Fortunately me and Sam have been doing that a fair bit so far. 
+Me and Sam got quite alot of work done on our teams game. We went in at 9am every day but one which really helped progress the game. Other members of our team don't seem to be quite as involved unfortunately, including our scrummaster which makes planning and such quite difficult. People do have lives outside of uni and things happen that we cant control so these kind of things happening are inevitable i suppose. At least I got quite a lot done and I'm learning more and more about pygame, some things are still a bit confusing but the code works. I need to keep making to commits to Github to show my individual contributions to the development process. Fortunately me and Sam have been doing that a fair bit so far. 
 
 ## Week 7
 
