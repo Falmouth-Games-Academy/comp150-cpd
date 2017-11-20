@@ -1,0 +1,8 @@
+Key skills ----------
+Affective domain: Emotional pressure destroying personal productivity in light of a) team management (scrum board, wanting to commit, standup ambiguity) b) pair programming (slowing down for people of lower average skill), c) handling multiple assignments at once
+Interpersonal domain: Handling the Lego Robot Olympiad and pair programming
+Dispositional domain: Focusing too hard on essays, losing weekends to it
+Cognitive domain: Management of programming "mysteries", e.g. Python classes in classes requiring instantiation
+Procedural domain: Attempting to resolve the collision detection (or rotation) problem
+
+What I did, what went wrong, how I would do it next time/how I resolved it
