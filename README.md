@@ -40,33 +40,24 @@ I have also noticed that a few of the challenges set for the python programming 
 
 ## Week 5
 
-Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
-
-Weekly journal goes here. Reflect.
+This week we learned about big O and looked into learning Tex style formatting. This I found really interesting as I felt more in control about the Agile essay as I found gathering the information quite exciting thus actually knowing about how to write it was a great help 
 
 ## Week 6
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
-
-Weekly journal goes here. Reflect.
+---STUDIO PRACTICE WEEK--- 
+This week we had some problems with being able to timetable meetings with the team. Either I had to work or they weren't here. We did try our best though so that is some comfort, I have found that communication could be a lot better from all parties as we wouldn’t discuss our work or what was happening. As many issues become apparent from basic planning problems and then a day wasted trying to fix those problems. The work is coming along brilliantly all be it stressful 
 
 ## Week 7
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week we done our review on our research so far. Which if anything made me trust my new question more as it wasn’t criticized as much as I thought it would, which in turn meant I was more encouraged to go and find more information. This week we also begun tinkering with audio but I was ill that day so can't comment much on it. We also were reminded about our research essay which was completely forgotten about which is making me really stressed now.
 
 ## Week 8
 
-and so on...
-
-Weekly journal goes here. Reflect.
+We handed in our essays this week and I do feel really confident in my essay although it did require putting other projects on hold so I could focus more. I have put the game and the research journal on hold. I find it more difficult to focus on heavy items at the same time. This does mean that I have capped myself on the research journal. 
 
 ## Week 9
 
-and so on...
-
-Weekly journal goes here. Reflect.
+STRESS about the essay
 
 ## Week 10
 
