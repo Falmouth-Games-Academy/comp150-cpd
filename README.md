@@ -1,4 +1,4 @@
-# COMP150 - Reflective Journal to Accompany My CPD Report
+﻿# COMP150 - Reflective Journal to Accompany My CPD Report
 *You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to.*  
 
 *This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
@@ -101,11 +101,15 @@ As I notiecd in the study, one of these things is reflecting on progress. This i
 Procedural domain:
 Identifying the skills you have, and what you need to improve. There is a GDC talk called How to Succeed, Fail and Learn worth watching.
 
-## ~~Week 9~~
+## Week 9
 
-and so on...
+This week we finalised the game project and pitch. 
 
-Weekly journal goes here. Reflect.
+Overall, active progress on the game was good. I made sure to be available in the mornings to work on the combat system where I successfully implemented **a baseline collision system**. I took a **less precise approach** with regards to time, which I feel is a good thing as it **resulted in a tangible game feature** rather than the building blocks.  
+
+However, the pitch fell behind. Planning of the pitch was poor--we never **established a team workflow for it**. Ryan and Scott offered to do it, but this is insufficient; we need to know what each of us will cover, and create the slides accordingly. As time started running out, Mango and I got online to continue Scott's work, with some more work left for the others the next day. This was successful overall, but not to a high standard.  
+
+Should a pitch project arise again, I will **ensure we have a team workflow and deadlines for the pitch** by asking everyone what part they wish to do, until a proper decisive discussion is sparked. I will play the passive role of raising awareness of the impending team process.
 
 ## ~~Week 10~~
 
