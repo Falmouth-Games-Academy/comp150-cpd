@@ -58,15 +58,17 @@ anything about it before. I have learned how to do basic structuring in that par
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
-Weekly journal goes here. Reflect.
 
-
+In this week, we have mostly spent learning Latex/Bibtex and how to work in them. At first, the interface was hard to grasp but then as I continued to use it, it made more and more sense. As well as learning LaTex, I have been introduced
+to more academic writing techniques to make sure that when the essay need to be in, I am at least somewhat comfortable with the software. This week was mostly dedicated to working on the proposal and the question that I will later adress in the
+essay.
 
 ## Week 6
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
-Weekly journal goes here. Reflect.
+This was a studio practice week in which I spent most of the time working on the game and made most of the progress but in the same week, a couple of my cohorts have failed to attend which ended up being stressful as most of the workload was on
+two/three of us, the people that actually attended.
 
 ## Week 7
 
