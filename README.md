@@ -27,9 +27,10 @@ fundamentals and I felt acquainted with the basics. I also felt like the introdu
 
 Tinkering Graphics, the Agile Philosophy, and Journal Articles in Computing
 
-Weekly journal goes here. Reflect.
-
-I have 
+In this week, I have been introduced to tinkering graphics within python. I felt that a lot of it went over my head as each algorithm although explained, translating it into the pygame environment proved to be
+difficult for me, this was mostly down to lack of knowledge of pygame itself and I feel that if i studied the documentation a bit closer, i can relate the source code to the right format and be able to make a 
+functioning program from scratch. In preperation for the Tinkering Graphics assignment, I could ready myself by studying more python related documents/programs. I have also been introduced to the Agile Philosophy,
+so far the concept seems fairly straight-forward as it is constant revision and communication between the developer and the client.
 
 ## Week 3
 
@@ -37,17 +38,29 @@ Starting my Tinkering Graphics Assignment, Pitching my First Game Concept, and V
 
 Weekly journal goes here. Reflect.
 
+During this week, I have began working on the Tinkering Graphics assignment and was mostly working on sprite generation which was the contract that I picked. In this program, I have decided to randomize a set of 5
+monster images and have the program randomize which color is shown on the screen. I have encountered some problems as I was struggling getting the exit loop for the program to stay on the screen. In addition, in this week
+I have created a concept for the game and it was called SpaceVenture(great name). The idea was that the galaxy was 3D and freeroam but whenever you would want to land on a planet, it would switch to a 2D style platformer game.
+GitHub introduction was made also, so far not really understanding its function but it is something that I need to work on as the weeks go on.
+
 ## Week 4
 
 Met my Team for the Game Development Project! More Programming and Learning about Logic and Academic Writing
 
 Weekly journal goes here. Reflect.
 
+To begin this week, I have started my first game development project with a completely new team with people whom I have never really met before. We brain-stormed a lot of ideas, everything that was from the 2D RPG field, I gave
+a lot of features to be added that were eventually discarded due to scope, at first I didn't really consider the scope and was just thinking of cool mechanics that we could add, not thinking of how complex they would be to perform
+in python which was eventually my downfall as when it came to actually programming some of those features, I realized the mistake in my way of thinking. This was also the week where I learned more about academic writing, not knowing
+anything about it before. I have learned how to do basic structuring in that particular session.
+
 ## Week 5
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
 Weekly journal goes here. Reflect.
+
+
 
 ## Week 6
 
