@@ -30,17 +30,31 @@ When I arrived here I was expecting something entirely new and scary. What I got
 
 Here lies the summary of a socially oblivious autistic adult's foray into the social world of drinking, programming and writing essays alternately.
 
+\textit{Note: During this report I may make outlandish-looking claims about subjective things. This is to keep my word count with words like 'probably', but this is always implicit. These are holes in my skills, so I don't I have the mindset to find the right answers immediately.}
+
 Write your introduction here. A brief introduction of about 100 words is recommended, which should state your career goal and the five key skills that you wish to highlight from your weekly reports. When choosing which skills to focus on for this report, be specific. Avoid choosing broad skills that are clearly important for any student, such as \textit{time management} or \textit{communication}. Instead, make it more granular. Consider which specific aspects of these broad areas are a priority for you, personally, and what may have caused or exacerbated the challenge. Tutors are not assessing your knowledge of general study skills. Rather, they are assessing your ability to analyse and reflect on your own learning and personal development as an individual and towards becoming a computing professional.
 
-\section{First and Foremost - Anxiety}
-The professional world is a social place. It is work-ridden as well. Social anxiety is a massive pain, and it leaks into other areas like time management and creativity, for reasons of 1) difficulty relaxing and socialing between work and 2) fear of judgement.
+\section{My anxiety and its impact on others}
+During the LEGO Robot Olympiad, I struggled with one particularly strong personality. The base issue was that he had predetermined which work needed doing and how, without giving us many opportunities to contribute. When the opportunities did come about I felt alienated and useless.
 
-Write about 200 words about. Remember, this is should be reflective and personal to you. Justify the relevance and importance of each of these skills with insight into your personal goals and personal circumstances. Assess your application of the skill throughout the semester and critically reflect on upon their impact it has had on your work and the challenges/obstacles. Acknowledge difficulties. Then, suggest how to overcome the challenge/obstacle in relation to a SMART action. When planning such actions, do not be too general. Consider SMART actions:
-specific; measurable; achievable; relevant; and time-bound. Ensure that your proposed action for future development meets all five of these criteria.
+A different, but related issue was in pair programming. My pair programmer and I had a skill gap favouring me, and I sometimes had trouble keeping our spirit and motivation up. It went both ways--he occasionally expressed that he hated not knowing the answers to things, and expected better of himself, rather than disliking my navigating him.
 
-\section{Second Key Skill}
+Both were affected by our personalities. The root problems on my side were my assertion and presentation. I think my anxiety is too noticeable, so one person may think I'm clueless, or another might "catch" the same anxiety.
 
-Write about 200 words. As above.
+To improve my inspirational effect on others, I'll take structured notes on my phone every Sunday, outlining the most anxious social moment of the week. Categories will be `the conversation', `why was I anxious', `did they catch it', 'how did it compare to last time', 'how I will rewrite the conversation'. In the comparison, I'll compare my new approaches to the previous, to see whether it helped. Meanwhile, the other sections--especially the rewrite--will help me create an approach for next time.
+
+\section{Problem management}
+
+In classic programmer fashion, the team game project gave me many problems that I spent too many hours focused in on. One of them was collision detection, involving the intersection of two rotatable rectangles. The problems I knew I had to solve piled up instantly, beginning from rotating vectors, to detecting line intersection, to converting tile/pixel units, to managing the hilarious(ly painful) floating point conversions, to shunning the sheer inefficiency of it all. My approach was flawed, as I was writing codependent functions that couldn't be used until the rest were available. This made iteration impossible.
+
+This doesn't suit my learning style, which is usually a hands-on process of experimenting and building upon it.
+
+Next time, my approach should be iterative. Produce a small result with a lazy, baseline structure (e.g., don't check boxes for now, just check lines), then implement the advanced components later. 
+
+I resolved this by coming up with a 'None' solution where in 'None' is an acceptable value for these classes. This sucked. But it allowed the programmer not only to forget to instantiate collision, but not to bother instantiating it at all when an object wasn't solid. The rationale was that we couldn't afford a miscommunication in the team should the team choose to make a new object subclass.
+
+SMART plan:
+My main challenge was identifying good programming practice. The best resolution is to discuss it with the team. Therefore, I will attempt to initiate a code review meeting this Friday on the 26th November 2017. During this, I will present to my team the challenge, and ask each member how they would deal with it, individually, ensuring the opinion is purely their own. I will note down their suggestion. Then, I will critique their commentary, asking how they would address a) team members forgetting to instantiate the class, b) performance, c) ease of implementation, d) line count, etc. My measurement of success will entirely depend on whether a single solution has been accepted by the entire team--that may not happen, but will still justify the exploration of alternatives, and I will have formed a personal opinion from the various techniques.
 
 \section{Third Key Skill}
 

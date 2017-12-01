@@ -12,7 +12,15 @@ https://blog.hubstaff.com/best-time-tracking-app-for-android/
 Should I find no appropriate free app, I will look further for one that can record time and categorise the total recordings.
 
 == Interpersonal domain ==
-Handling the Lego Robot Olympiad and pair programming
+Handling the Lego Robot Olympiad and pair programming.
+
+During the LEGO Robot Olympiad I struggled with one particularly strong personality. The base issue was that he had predetermined which work needed doing and how, without giving us many opportunities to contribute. When the opportunities did come about I felt alienated and useless.
+
+A different, but related issue was in pair programming. My pair programmer and I had a skill gap favouring me, and I sometimes had trouble keeping our spirit and motivation up. It went both ways--he occasionally expressed that he hated not knowing the answers to things, and expected better of himself, rather than disliking my navigating him.
+
+Both were affected by our personalities. The root problems on my side were my assertion and presentation. I think my anxiety is too noticeable, so one person may think I'm clueless whist another might "catch" the same anxiety.
+
+To improve my effect on others, I'll take structured notes on my phone every Sunday, outlining the most anxious social moment of the week. Categories will be 'conversation taken', 'why was I anxious', 'did I spread it', 'how did it compare to last time', 'how I will rewrite the conversation'. The comparison section will let me compare my new approaches to my old, and measure improvement; whilst the other sections, especially the rewrite, will let me create solutions to try next time.
 
 == Dispositional domain ==
 Focusing too hard on essays, losing weekends to it
