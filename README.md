@@ -57,15 +57,11 @@ Relieved that the Essay and Research Journal are done, luckily I found the topic
 
 ## Week 9
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Got a bit confused by Pass by reference in comp110, should practice it some more at home to make sure I grasp it fully. The lessons in tinkering audio were a bit full on and confusing but we've focused on the parts we need for our contract, I think once all the basics are there it'll be fun to play with. The game prototype is basically ready for the pitch next week, I'm quite nervous about that however. Me and Sam have done the slides for our group with basically no input from the other members and I'm not sure if they're going to even turn up to be honest. It's really difficult to motivate people and keep people included who don't contribute much or even turn up so me and Sam have basically given up at this point and decided to do it all ourselves so that we actually have something to show. Maybe this shows a lack of tolerance on our part as I'm sure there may be genuine reasons for people not being able to contribute as much but it's still a pain. Glad it's nearly finished though.
 
 ## Week 10
 
-and so on...
-
-Weekly journal goes here. Reflect.
+The pitch went okay, although we werent all there and I had to do more than I was going to but luckily I prepared for that. I really need to work on my nerves, I tend to just say whats on the slides that I prepare beforehand rather than improvise from short bullet point which is not how you should pitch. I guess fully immersing yourself in the slides and practicing pitching a lot beforehand is the way to go and might make me more confident during the pitch and more likely to not falter. At least the game is done and I think it's in a passable state. I definitely dont think it's the worst which is good. The tinkering audio went quite well I think. I felt like I didn't contribute as much as Sam in the beginning but I ended up putting a few nice features in at the end once I really understood how the code worked which I think improved it quite a bit. I'm still pretty useless at peer reviewing code. I think I just need more knowledge and practice at it as it takes me quite a while to think of any useful feedback. I came in on thursday and tried doing the quiz while I waited for the meeting with my new group but I could really concentrate properly in the studio. When I got home I did it pretty quickly, having a pen and paper helped as I'm not particularly great at mental arithmatic as is, let alone with calculus and vector math. I plan tdo the tic tac toe worksheet over the weekend, it looks simple enough but I don't really know how to start. Think I should do a bit more research into data structures.
 
 ## Week 11
 
