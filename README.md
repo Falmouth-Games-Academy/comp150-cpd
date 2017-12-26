@@ -3,6 +3,25 @@
 
 *This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
 
+## Notes
+# Derp domain:
+Time management, motivation, self-discipline
+
+# Affective domain:  
+Capacity to be aware of, control and express emotions, and how to handle situations in a judicous and empathetic way.  
+
+# Interpersonal domain:
+Communication, listening, negotiation, problem-solving, decision-making and assertiveness  
+Not everyone has perfect interpersonal skills. The vital skill is managing all people including these kind.  
+
+# Cognitive domain:
+Assessing the strengths and weaknesses of your approach to learning.  
+
+As I noticed in the study, one of these things is reflecting on progress. This is mildly ironic. And generally speaking, if there is any case of irony wherein I am the one to call it ironic, it is ironic.  
+
+# Procedural domain:
+Identifying the skills you have, and what you need to improve. There is a GDC talk called How to Succeed, Fail and Learn worth watching.  
+
 ## Week 0 (September 18th 2017)
 This week I participated in the Robot Olympiad. It was tough.
 
@@ -75,43 +94,27 @@ What went wrong: **focus**. I'm **too focused** on the essays before review, rev
 To improve, I shall **continue panicking** helplessly. I'll see if my heavy focus on my research question impacts the agile essay and if the structure of my computing essay is considered harmful--til then, they are qualities that are good in my eyes. I **will adjust accordingly** for my next essays depending on the feedback I get, **as soon as I get it**.  
 
 ## Week 8 (November 13th 2017)
-Essay submission week! So fun!!! The sun is shining, the papers are flying and my will is dying.
+Essay submission week! So fun!!!
 
-And now for something entirely different: **peer review skills!** Turns out I write thorough feedback to help my subject improve. The problem is when this is coupled with a rubric, **I don't have enough time**. It's expected that if I can't review ten 1000-word essays to 9 criteria of 6 competency levels each whilst giving constructive feedback in three hours, I'm not doing them fast enough. This is **extremely pressuring** for me, as I'm a slow reader and a slower interpreter. I have the alternative of working less thoroughly and taking advantage of a break, but I don't feel this would be condusive to helping a peer develop.
+And now for something entirely different: **peer review skills!** Turns out I write thorough feedback to help the writer improve. The problem is **I don't have enough time** to go through the whole rubric. It's expected that if I can't review 10 1000-word essays to 9 criteria of 6 competency levels each whilst giving constructive feedback in three hours, I'm not doing them fast enough. I'm a slow reader and interpreter, so **this is stressful**. I could be less thorough, but feel this would not be conducive to helping a peer develop.  
 
-On the bright side, I was confident in taking the feedback I was given. **I identified several flaws** in my work with it; while that doesn't sound like a good thing, it gave me time to rewrite a large portion of my work. I was very tired.
+On the bright side, **I identified several flaws** in my work with others' feedback, and rewrote large portions.  
 
-Smart objective--I must [finish this later lol]
-
-x domain:
-time management, motivation, self-discipline
-
-Affective domain:  
-Capacity to be aware of, control and express emotions, and how to handle situations in a judicous and empathetic way.  
-
-Interpersonal domain:
-Communication, listening, negotiation, problem-solving, decision-making and assertiveness
-Not everyone has perfect interpersonal skills. The vital skill is managing all people including these kind.
-
-Cognitive domain:
-Assessing the strengths and weaknesses of your approach to learning.
-
-As I notiecd in the study, one of these things is reflecting on progress. This is mildly ironic.
-
-Procedural domain:
-Identifying the skills you have, and what you need to improve. There is a GDC talk called How to Succeed, Fail and Learn worth watching.
+I have no SMART goal, but propose a SHART one (h is for 'heuristic'): to peer review my own work regularly with the rubric and Notepad. I will do this for each section of an assignment or report once it's drafted, and rinse and repeat after revising. This should help me identify more strategies for speeding up the peer review process whilst improving the work itself. I don't have a specific time goal--I only want to provide the most useful feedback.  
 
 ## Week 9 (November 20th 2017)
 This week we finalised the game project and pitch. 
 
 Overall, active progress on the game was good. I made sure to be available in the mornings to work on the combat system where I successfully implemented **a baseline collision system**. I took a **less precise approach** with regards to time, which I feel is a good thing as it **resulted in a tangible game feature** rather than the building blocks.  
 
-However, the pitch fell behind. Planning of the pitch was poor--we never **established a team workflow for it**. Ryan and Scott offered to do it, but this is insufficient; we need to know what each of us will cover, and create the slides accordingly. As time started running out, Mango and I got online to continue Scott's work, with some more work left for the others the next day. This was successful overall, but not to a high standard.  
+However, the pitch fell behind. Planning of the pitch was poor--we never **established a team workflow for it**. Ryan and Scott offered to do it, but this was insufficient; we need to know what each of us will cover, and create the slides accordingly. As time started running out, Mango and I got online to continue Scott's work, with some more work left for the others the next day. This was successful overall, but not to a high standard.  
 
 Should a pitch project arise again, I will **ensure we have a team workflow and deadlines for the pitch** by asking everyone what part they wish to do, until a proper decisive discussion is sparked. I will play the passive role of raising awareness of the impending team process.
 
 ## Week 10 (November 27th 2017)
 This week, Mango and I worked on the final elements for our Tinkering Audio project. It was pretty great! We didn't quite reach the full stretch goals we wanted to, due to lack of time mostly, but we got something submitted. Sadly we never got around to adding demonstrations of exactly *why* we used colours to represent sound transformations. We were shooting for creative flair for that one, but it might just lead to confusion for the actual user.
+
+Time management was the biggest issue here. 
 
 ## Week 11 (December 4th 2017)
 This week we came up with the game concept. Meanwhile, we started Unreal. Unreal was slow. I'm learning a lot about how not to rely on these machines for anything Unreal. It's Epic how bad it is. It's totally Unreal.
