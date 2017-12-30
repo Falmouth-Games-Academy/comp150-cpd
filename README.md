@@ -5,7 +5,7 @@
 
 ## Notes
 # Derp domain:
-Time management, motivation, self-discipline
+Time management, motivation, self-discipline  
 
 # Affective domain:  
 Capacity to be aware of, control and express emotions, and how to handle situations in a judicous and empathetic way.  
@@ -119,12 +119,16 @@ A blend of time management and interpersonal skills were the issue there. To ach
 Next time: I'll get us to try to finish the assignment a week in advance by telling my partner 'Hey, wanna finish the assignment next week instead of the week after?'
 
 ## Week 11 (December 4th 2017)
-This week, my team and I began conceptualising. Meanwhile, I started Unreal. Unreal is slow as heck. But I’m finally **grasping the concepts** of a professional game engine in my favourite language, C++: I’m finally gaining some kind of industry-standard knowledge. I hate templates though. They’re fantastic, but the compile times are insane.
-Reintroducing the interpersonal domain: so **ideas aren’t flying**. The first team meeting was alright, but I strongly felt there was **a lack of cohesion**. We don’t really know each other or our strengths and tastes. This is normal, but we don’t need to settle for normal. I know I could play a stronger role in this: while I contributed ideas in a fair share, there’s so little inspiration. I feel this is a flaw for the team that won’t resolve automatically. Overall they seem just ‘alright’ with the project. 
+This week, my team and I began conceptualising. Meanwhile, I started Unreal. Unreal is slow as heck. But I’m finally **grasping the concepts** of a professional game engine in my favourite language, C++: I’m finally gaining some kind of industry-standard knowledge. I hate templates though. They’re fantastic, but the compile times are insane.  
+
+Reintroducing the interpersonal domain: so **ideas aren’t flying**. The first team meeting was alright, but I strongly felt there was **a lack of cohesion**. We don’t really know each other or our strengths and tastes. This is normal, but we don’t need to settle for normal. I know I could play a stronger role in this: while I contributed ideas in a fair share, there’s so little inspiration. I feel this is a flaw for the team that won’t resolve automatically. Overall they seem just ‘alright’ with the project.  
+
 As an aspiring team leader, I have a goal to inspire creativity. We won’t get creative until we’re more comfortable with each other. I’ll try making a poll.
 \[TO FINISH\]
 
 ## Week 12
-This week, my team and I presented the game pitch. Oh boy. Straighten your ties, team! Oops, we don’t have the ties. Oops, we don’t have the team!!
-I retrospectively reflect on Week 9, as this week we tried to finish off the presentation hours before the pitch. Thankfully, we **did establish a workflow**. While many team members didn’t show up ‘til later in the day, the pitching experience was more successful than our last. We BScs and Maria, eventually followed by James, Louis and the others, pulled together the pitch taking as many pages as needed. Among the challenges was **knowing who was going to say what**. This was a fairly familiar workflow issue. I think it could have been avoided if we **started it sooner** although aligning everyone to the same schedule is a **noteworthy challenge**.
-While I have reservations about the complexity of the project, the pitch was successful: we somehow **coordinated speaking parts for all of us**. Thinking retrospectively, that is a really good sign. If only we could coordinate our creativity a little more.
+This week, my team and I presented the game pitch. Oh boy. Straighten your ties, team! Oops, we don’t have the ties. Oops, we don’t have the team!!  
+
+I reflect on Week 9, as once again we tried to finish off the presentation hours before the pitch. Thankfully, we **did establish a workflow**. While many team members didn’t show up ‘til later in the day, the pitching experience was more successful than our last. We BScs and Maria, eventually followed by James, Louis and the others, pulled together the pitch taking as many pages as needed. Among the challenges was **knowing who was going to say what**. This was a fairly familiar workflow issue. I think it could have been avoided if we **started it sooner** although aligning everyone to the same schedule is a **noteworthy challenge**.  
+
+But the pitch was successful: we somehow **coordinated speaking parts for all of us**. Thinking retrospectively, that is a really good sign. If only we could coordinate our creativity a little more.
