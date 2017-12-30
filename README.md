@@ -4,7 +4,7 @@
 *This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
 
 ## Notes
-# Derp domain:
+# Dispositional domain:
 Time management, motivation, self-discipline  
 
 # Affective domain:  
