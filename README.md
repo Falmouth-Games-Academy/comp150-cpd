@@ -1,4 +1,4 @@
-﻿# COMP150 - Reflective Journal to Accompany My CPD Report
+# COMP150 - Reflective Journal to Accompany My CPD Report
 *You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to.*  
 
 *This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
@@ -112,14 +112,19 @@ However, the pitch fell behind. Planning of the pitch was poor--we never **estab
 Should a pitch project arise again, I will **ensure we have a team workflow and deadlines for the pitch** by asking everyone what part they wish to do, until a proper decisive discussion is sparked. I will play the passive role of raising awareness of the impending team process.
 
 ## Week 10 (November 27th 2017)
-This week, Mango and I worked on the final elements for our Tinkering Audio project. It was pretty great! We didn't quite reach the full stretch goals we wanted to, due to lack of time mostly, but we got something submitted. Sadly we never got around to adding demonstrations of exactly *why* we used colours to represent sound transformations. We were shooting for creative flair for that one, but it might just lead to confusion for the actual user.
+This week, Mango and I finished our Tinkering Audio project. It was pretty great! We didn't quite reach the stretch goals we wanted to, mostly due to lack of time, but we submitted a functional program. Sadly, we never got around to adding an interface showing *why* we used colours to represent sound transformations. We were shooting for creative flair with that one, but without context, the joke may lead to confusion for the user.
 
-Time management was the biggest issue here. 
+A blend of time management and interpersonal skills were the issue there. To achieve the vision we had near the end of the project, we needed to dedicate more time to it. However, who else is so fussed as me? While I would've liked to over-dedicate to the project, I didn't force that on Mango. We struck a good balance with good communication, but could perhaps improve by finishing the project further in advance of the deadline. That way we could add the funnier parts in a whole day.
+
+Next time: I'll get us to try to finish the assignment a week in advance by telling my partner 'Hey, wanna finish the assignment next week instead of the week after?'
 
 ## Week 11 (December 4th 2017)
-This week we came up with the game concept. Meanwhile, we started Unreal. Unreal was slow. I'm learning a lot about how not to rely on these machines for anything Unreal. It's Epic how bad it is. It's totally Unreal.
+This week, my team and I began conceptualising. Meanwhile, I started Unreal. Unreal is slow as heck. But I’m finally **grasping the concepts** of a professional game engine in my favourite language, C++: I’m finally gaining some kind of industry-standard knowledge. I hate templates though. They’re fantastic, but the compile times are insane.
+Reintroducing the interpersonal domain: so **ideas aren’t flying**. The first team meeting was alright, but I strongly felt there was **a lack of cohesion**. We don’t really know each other or our strengths and tastes. This is normal, but we don’t need to settle for normal. I know I could play a stronger role in this: while I contributed ideas in a fair share, there’s so little inspiration. I feel this is a flaw for the team that won’t resolve automatically. Overall they seem just ‘alright’ with the project. 
+As an aspiring team leader, I have a goal to inspire creativity. We won’t get creative until we’re more comfortable with each other. I’ll try making a poll.
+\[TO FINISH\]
 
 ## Week 12
-- A difficulty making a workflow for the pitch
-- Positive team spirit with Mango, Tomas, Maria, and James
-
+This week, my team and I presented the game pitch. Oh boy. Straighten your ties, team! Oops, we don’t have the ties. Oops, we don’t have the team!!
+I retrospectively reflect on Week 9, as this week we tried to finish off the presentation hours before the pitch. Thankfully, we **did establish a workflow**. While many team members didn’t show up ‘til later in the day, the pitching experience was more successful than our last. We BScs and Maria, eventually followed by James, Louis and the others, pulled together the pitch taking as many pages as needed. Among the challenges was **knowing who was going to say what**. This was a fairly familiar workflow issue. I think it could have been avoided if we **started it sooner** although aligning everyone to the same schedule is a **noteworthy challenge**.
+While I have reservations about the complexity of the project, the pitch was successful: we somehow **coordinated speaking parts for all of us**. Thinking retrospectively, that is a really good sign. If only we could coordinate our creativity a little more.
