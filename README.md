@@ -1,9 +1,5 @@
 # COMP150 - Reflective Journal to Accompany My CPD Report
 
-You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
-
-This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.
-
 ## Week 0
 
 ### Induction Week and the Robot Olympiad
@@ -102,7 +98,7 @@ we are getting there.
 
 ## Week 6
 
-###Studio Practice week working on the game
+### Studio Practice week working on the game
 
 This week was spent entirely in the games studio working with my team on
 the vision is the dark game demo. It was a difficult and challenging week
@@ -193,7 +189,4 @@ game idea to some teachers. Preparing the pitch was a little stressful at times
 but overall it went pretty well and performing the pitch went generally quite
 well, the teachers didn’t have many negatives things to say about the idea
 so that’s good. On Friday we reviewed the maths quiz D which was about
-rotating points in space, it took me a while to understand and do this quiz,
-
-but I managed in the end and I feel that I have a better understanding of
-the subject now.
+rotating points in space, it took me a while to understand and do this quiz, but I managed in the end and I feel that I have a better understanding of the subject now.
