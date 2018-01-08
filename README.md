@@ -65,12 +65,10 @@ The pitch went okay, although we werent all there and I had to do more than I wa
 
 ## Week 11
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week we did more on GitHub, specifically some demos explaining how branching works and we also learnt a bit about how to use TravisCI to test code on GitHub. It's quite complicated so I'll need to revise it more later if I want to really understand it. I also finished workseet D where we had to complete a tic tac toe program in python. It was quite tricky making it from scratch but once I understood the basics of the template it was easier to understand what to do although I couldn't think of a way to make it compatible with varying size grids and players but it works. I think I need to code more, as I don't feel naturally adept enough to instantly see what I should do or how I should do it, I assume that comes with experience. We also learn't about stacks and graphs. As with most of the comp 110 lessons I got the gist while it was being explained to us but I feel if I had to explain it now I wouldn't be sure if I fully understood it or spent enough time using it. In comp120 we started tutorials for Unreal Engine 4 and spent half the lesson trying to get the software to run and waiting for things to compile, luckily my computer at home seems to be a bit faster so it isn't so bad. I need to catch up and complete the first 10 tutorials for next week. It's really nice working with an engine, I think starting with pygame was a good idea because this seems like a step up in complexity but I'm excited to learn C++.
 
 ## Week 12
 
-and so on...
+This was a fairly slow week since its the end of the semester, still the maths quiz on rotating vectors was a bit of a chore, I completed it the night before and was able to help out some of my peers with it the next morning which I think actually helped me get a better grasp on the concepts going through it again with other people which was good. I was a bit worried about the pitch (even though I wasn't speaking myself) but the BA students did really well especially compared to some of the pitches we've had to do in the past. The Unreal tutorials were ok, I think it would have been fast at home but it's good to have the lecturers at hand for any problems that arise. Most of the problems seemed to be about the software on the computers not running properly however which is annoying, hopefully most of the computers in the studio wont have the same problems.
 
-Weekly journal goes here. Reflect.
+
