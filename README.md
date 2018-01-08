@@ -103,10 +103,10 @@ Finalising the core mechanics of the game early on would have helped us with thi
 
 I feel like I should do something special to mark the end of a term. Poem?  
 
-Coding is great, but the essays are dry,
-The computers are slow, all heave a sigh,
-Self-teaching is fine, while you walk the line,
-But chance to dine, with the sun in the sky,
-And you’ll find that the end is more than quite nigh
+Coding is great, but the essays are dry,  
+The computers are slow, all heave a sigh,  
+Self-teaching is fine, while you walk the line,  
+But chance to dine, with the sun in the sky,  
+And you’ll find that the end is more than quite nigh  
 
 
