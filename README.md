@@ -50,42 +50,63 @@ To remedy this, we will be working on a core framework as a team. This framework
 
 ## Week 6
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
+The past week has been a studio week where we could work in our own time on our game project. Despite the intended focus on game development, I ended up spending a lot of time working on the two essays we had as they were due fairly soon. Trying to balance essay writing and programming was the biggest challenge this week.  
 
-Weekly journal goes here. Reflect.
+Doing more preliminary researching and drafting of the essays would have made this easier, as well as having a set day(s) each week to do a small amount of work on each essay so that they progressed gradually rather than requiring a lot of time to complete.  
+
+It was also during this time that I got bored of writing these journal entries as post-crash logs of an intergalactic explorer. There are only so many synonyms for “natives” and “planet”.
+
 
 ## Week 7
 
-and so on...
+This week has also consisted mainly of essay writing; however I have also made an effort to do some work on the game, mainly touching up small pieces of code and documentation here and there.  
 
-Weekly journal goes here. Reflect.
+Concerning essay writing, the biggest challenge has been finding enough (and relevant enough) references to support the arguments I make. Comparing references with peers could be one way to find new references, as papers often overlap certain areas and can be relevant to multiple arguments. Looking at the sources references by each reference I currently have would also be useful, as they are often related to the same subject as paper referencing them.
+
 
 ## Week 8
 
-and so on...
+This week we peer reviewed essays which was an interesting experience. I find skim-reading the essays fairly easy and I can judge the more concrete rubric categories – such as structure, grammar and referencing – quickly. However, the more abstract categories including Depth of Insight and Analysis are more difficult for me to make judgements on.  
 
-Weekly journal goes here. Reflect.
+Simply having more practice at peer reviews will probably make me more comfortable with the process but comparing my marking to other people’s marking and judgements could also help me understand how certain categories are marked.
+
 
 ## Week 9
+The pitch for our game was the main event of this week and had the team working hard over the weekend to finalise as much as possible. Overall the pitch was fairly decent, especially as we managed to get a working prototype of the game that could be demonstrated. On the other hand, the presentation itself was much less polished and could have be vastly improved.   
 
-and so on...
+The marketing and sales section was added very late in the process and therefore had not had as much research put into it as it should have, as well as the team not having had much practice at rehearsing the presentation. Next time we have to do a pitch, the business aspect should be a large focus for us and we should also ensure that we have all had at least one or two rehearsals.
 
-Weekly journal goes here. Reflect.
 
 ## Week 10
 
-and so on...
+This week my programming partner and I focused on finishing the Audio Tinkering assignment and tried to find ways to make it stand out. We ended up going for the whimsical idea of representing the sound as a colour, hoping this would add some flair and creativity to the project.  
 
-Weekly journal goes here. Reflect.
+Although we were able to complete the assignment and implement most of our colour-based quirk, we did not have enough time for the coup de grace, the finished, mixed colour that would represent the sound. This could certainly make our choice of user interface seem somewhat odd at best, and obfuscating at worst.  
+
+The greatest challenge for me on this project was my lack of audio knowledge. It was only due to my partner’s extensive experience with audio that we managed to make an interesting program. Researching audio programming and understanding the theory behind it would make programming it far less complex for me.
+
 
 ## Week 11
 
-and so on...
+This was the week in which we started learning to use the Unreal Engine. Using Unreal on the University’s computers is rather like what I imagine Sisyphus must experience, albeit with crashes, sluggish loading and permission errors in place of gravity.  
 
-Weekly journal goes here. Reflect.
+Despite this it was interesting to work with C++ and to experiment with UE4. Coming to grips with C++’s class/header format was challenging but not impossible. I also spent some time outside of lectures looking at possible ways to implement our game idea with UE4. Further practice with C++ and looking at example code will help me become more comfortable with this format.
+
 
 ## Week 12
 
-and so on...
+Our new group game pitches took place this week and were the focus of our attentions. Although only the BA students were being assessed in this pitch, my fellow BSc’s and I took part in the planning of the pitch and also took speaking roles in it.  
 
-Weekly journal goes here. Reflect.
+Getting all the information necessary into the short time frame we were given was difficult but manageable. We gave almost everyone a speaking role and delivered the pitch well. However, we could have done more research into some of the technical areas of the game.  
+
+Finalising the core mechanics of the game early on would have helped us with this as we continued to change the core mechanics up until close to the pitch which didn’t give us much time to thoroughly research the programming needed to implement the proposed features.  
+
+I feel like I should do something special to mark the end of a term. Poem?  
+
+Coding is great, but the essays are dry,
+The computers are slow, all heave a sigh,
+Self-teaching is fine, while you walk the line,
+But chance to dine, with the sun in the sky,
+And you’ll find that the end is more than quite nigh
+
+
