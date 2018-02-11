@@ -3,25 +3,47 @@
 
 *This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.*
 
-## Notes
-# Dispositional domain:
+# Notes
+### Dispositional domain:
 Time management, motivation, self-discipline  
 
-# Affective domain:  
+### Affective domain:  
 Capacity to be aware of, control and express emotions, and how to handle situations in a judicous and empathetic way.  
 
-# Interpersonal domain:
+### Interpersonal domain:
 Communication, listening, negotiation, problem-solving, decision-making and assertiveness  
 Not everyone has perfect interpersonal skills. The vital skill is managing all people including these kind.  
 
-# Cognitive domain:
+### Cognitive domain:
 Assessing the strengths and weaknesses of your approach to learning.  
 
 As I noticed in the study, one of these things is reflecting on progress. This is mildly ironic. And generally speaking, if there is any case of irony wherein I am the one to call it ironic, it is ironic.  
 
-# Procedural domain:
+### Procedural domain:
 Identifying the skills you have, and what you need to improve. There is a GDC talk called How to Succeed, Fail and Learn worth watching.
 
+# Arising Problem Areas
+## Communication blocks
+There are times when I know I need to know something, but don't ask. Things like 'why hasn't x updated the Trello board, and when will they?'.  
+
+The cause is probably that deep childhood etc etc. If I talked too much, people tuned me out. However, I know this stuff is important. Chances are, they do too. So the important thing is to focus on their perspective: expose what they already knew. I could do this by, upon not seeing the Trello boards updated in the first thirty minutes, **asking them what they're currently doing**. When they answer, I'll acknowledge, say my thoughts, and then say **can you add that to the Trello board and stick your name on it?**.  
+
+I probably need to read up on basic psychology to get it just right.  
+
+## Lack of work/underachievement
+I need to step back and look at the things that have slowed me down these past few weeks:  
+
+**1. Dialogue system overscoping:** The dialogue system I was making had too many features. We really **need something on the screen**. Now that we're knee-deep into Unreal, I'll make sure I'm making something **presentable to the team** from now on.  
+**2. Separate projects:** Oh man. Just **don't do them**. Keep it to one project next time.
+
+# Achievements
+## SVN
+I've played a role in making sure everyone knows how SVN works. I made a channel in Slack, however I noticed **not many people read it**. There were many who **asked me how SVN works** despite all the information being there. I believe this is fine, perhaps just a lack of self-motivation on their part. Question is, **could I do more to encourage the team to read my tutorial(s)**?
+
+## Hanging out
+We really need to hang out more--I ntoice that we get to know each other best in **scenarios where we're not working**. And I feel it'd be great benefit to know each other, there's more motivation in pleasing people you know well than those you don't--not everyone is as **motivated by work as I am**, and furthermore that motivation very very much excludes Unreal.
+
+# Journal
 ## Week 1 (29th Jan 2017)
 This week summarised: I tried to finish developing my dialogue system, and had a headache trying to transfer it into Unreal. Learning Unreal is very slow--still don't know how to handle it. Noticing team attendance is wobbly. Trying to learn to become a scrum master and missing many vital elements.
 
