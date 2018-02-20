@@ -61,3 +61,8 @@ Focus could be the problem, but honestly, maybe I should be seeking more help fr
 In the meantime, started to work on Arduino project on the weekend. It's fun! And perhaps taking too much of my time. But I love having the freedom to try exactly what I want.  
 
 My personal life is alright. I want to get out more and meet people. On that topic, I note after the lecture today that it'd be a good idea to hang out with the team for more fun stuff as well. We benefit a ton from knowing each other more. I went out with Chris and Dary Saturday--it was great fun--and I think it's good to relax, enjoy ourselves and realise we're not stalking each other's trello activity 24/7.
+
+## Week 3
+Another week, another plethora of Unreal errors. On the bright side, I implemented and demonstrated the dialogue system (before it broke again). Meanwhile, I've been working on my Arduino project, building its engine and everything. This is on top of trying to be a better Scrum msater. To my credit, I've been nagging everyone about the Trello boards. However, I have room to improve when it comes to communicating stand-up times, and managing them.  
+
+For the second sprint, I made a new meetings register. I noted a register mentioned on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing previously. I've been largely keeping good track though there have been occasions where I've forgotten to note down someone's leaving time and do it in retrospect.
