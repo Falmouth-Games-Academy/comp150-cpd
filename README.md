@@ -65,4 +65,11 @@ My personal life is alright. I want to get out more and meet people. On that top
 ## Week 3
 Another week, another plethora of Unreal errors. On the bright side, I implemented and demonstrated the dialogue system (before it broke again). Meanwhile, I've been working on my Arduino project, building its engine and everything. This is on top of trying to be a better Scrum msater. To my credit, I've been nagging everyone about the Trello boards. However, I have room to improve when it comes to communicating stand-up times, and managing them.  
 
-For the second sprint, I made a new meetings register. I noted a register mentioned on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing previously. I've been largely keeping good track though there have been occasions where I've forgotten to note down someone's leaving time and do it in retrospect.
+For the second sprint, I made a new meetings register. I noted a register mentioned on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing previously. I've been largely keeping good track, though there have been occasions where I've forgotten to note down someone's leaving time and do it in retrospect.  
+
+## Week 4
+This week I implemented shield deflection into Demiurge. By showing this tangible gameplay I definitely **helped inspire** some of the team. While it's a small step, every bit of motivation counts. I hope to continue this trend of showing and inspiring.  
+
+On Friday I made a small pong game. This was an online multiplayer game. While implementing network synchronisation, I decided to create a ControllerMessage type, which specified inputs from players. However, I quickly realised that since the logic was client-side, I was starting to **include state data with input data**. Also, I was **assigning** each element to the objects' variables when they sent and received them. This slowed production significantly.  
+
+Next time in a game jam, I'll create 'state data' for online synchronisation. Each synchronised object will own an instance of this state data, which will inherit from a network message. Thus instead of needing to convert and copy everything when an update is received, a simple memory copy will do the trick. While suboptimal for the final online version, this is appropriate in the LAN-only 'skateboard' version of the product.  
