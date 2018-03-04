@@ -44,10 +44,17 @@ I've played a role in making sure everyone knows how SVN works. I made a channel
 We really need to hang out more--I ntoice that we get to know each other best in **scenarios where we're not working**. And I feel it'd be great benefit to know each other, there's more motivation in pleasing people you know well than those you don't--not everyone is as **motivated by work as I am**, and furthermore that motivation very very much excludes Unreal.
 
 # Journal
-## Week 1 (29th Jan 2017)
+## Week 1 (29th Jan 2018) (notes)
 This week summarised: I tried to finish developing my dialogue system, and had a headache trying to transfer it into Unreal. Learning Unreal is very slow--still don't know how to handle it. Noticing team attendance is wobbly. Trying to learn to become a scrum master and missing many vital elements.
 
-## Week 2 (5th Feb 2017)
+## Week 2 (5th Feb 2018)
+This week I continued into the Unreal work. C++ is especially hard to work around, not only because of compile times, but because nobody else uses it. This makes me question my role as a programmer, although the dialogue system is coming together nicely.  
+
+In other news, following Brian's advice in the Week 1 PO meeting, I've been nagging the team more regularly about updating the Trello board. Results are mixed--many say they'll do it, but it just doesn't get done. I figure this boils down to simple forgetfulness, so hope that continued nagging will solve it eventually, but this is a concern for the future. Additionally, I've noted that the scrum master is perhaps meant to take more detailed notes about each member's arrival/departure time, so have updated the timetable accordingly.  
+
+With regards to the former, I'll monitor the success of the 'continued nagging' approach. If the Trello board isn't updated more regularly within the next few weeks, I'll start watching the Trello log each day. If the Trello baord hasn't been updated on that day by any specific person, I'll send a reminder to each person by @'ing them on Slack after the session.  
+
+**(previous notes)**
 This week summarised: Managing tasks. Communicating more. Unreal headaches, and perhaps not communicating my own progress enough. Noting a lack of content showing--we need to showcase more.
 
 Later on in this week I realised a scrum master is supposed to, or at least could keep more specific times that people came in. I was always wondering this, but was concerned it was too pedantic--apparently not, this is a working environment after all and stating whether someone was present at no particular time isn't specific enough!  
@@ -62,14 +69,24 @@ In the meantime, started to work on Arduino project on the weekend. It's fun! An
 
 My personal life is alright. I want to get out more and meet people. On that topic, I note after the lecture today that it'd be a good idea to hang out with the team for more fun stuff as well. We benefit a ton from knowing each other more. I went out with Chris and Dary Saturday--it was great fun--and I think it's good to relax, enjoy ourselves and realise we're not stalking each other's trello activity 24/7.
 
-## Week 3
+## Week 3 (12th Feb 2018) (notes)
 Another week, another plethora of Unreal errors. On the bright side, I implemented and demonstrated the dialogue system (before it broke again). Meanwhile, I've been working on my Arduino project, building its engine and everything. This is on top of trying to be a better Scrum msater. To my credit, I've been nagging everyone about the Trello boards. However, I have room to improve when it comes to communicating stand-up times, and managing them.  
 
 For the second sprint, I made a new meetings register. I noted a register mentioned on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing previously. I've been largely keeping good track, though there have been occasions where I've forgotten to note down someone's leaving time and do it in retrospect.  
 
-## Week 4
+## Week 4 (19th Feb 2018)
 This week I implemented shield deflection into Demiurge. By showing this tangible gameplay I definitely **helped inspire** some of the team. While it's a small step, every bit of motivation counts. I hope to continue this trend of showing and inspiring.  
 
 On Friday I made a small pong game. This was an online multiplayer game. While implementing network synchronisation, I decided to create a ControllerMessage type, which specified inputs from players. However, I quickly realised that since the logic was client-side, I was starting to **include state data with input data**. Also, I was **assigning** each element to the objects' variables when they sent and received them. This slowed production significantly.  
 
 Next time in a game jam, I'll create 'state data' for online synchronisation. Each synchronised object will own an instance of this state data, which will inherit from a network message. Thus instead of needing to convert and copy everything when an update is received, a simple memory copy will do the trick. While suboptimal for the final online version, this is appropriate in the LAN-only 'skateboard' version of the product.  
+
+## Week 5 (26th Feb 2018
+**SNOW WEEK!!!**  
+Unreal-wise, this week was minimalistic. I made a snowman though, with my Perforce socks on my hands--Michael would be proud! I miss him.  
+
+Anyway, this week I worked a fair bit on **Handzer**, my Arduino game. I've struggled to **prioritise tasks** for this project. My perfectionist brain wants everything to be nice and refined at the beginning, in a total rejection of the iterative approach. Bad perfectionist brain. Bad!!! However, what resulted--my 2.5D level editor--is quite a 'handy' tool to have.  
+
+To counter my non-iterative brain, I've added key commands so that I can control the game with the keyboard as well as the Arduino controller. That might sound small, but **it makes testing much faster** as I can test without the device. It's also giving me new perspectives for my motion detection algorithms by eliminating some of the distracting variables like sensor imprecision.  
+
+To improve, I have set a goal for the game. By next week I'll have a map with bottles or shadow enemies flying towards me, and I can blast them with my laser. This prioritises player experience. I'm already working on the laser blast graphics. It's gonna be great!  
