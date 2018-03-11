@@ -81,7 +81,7 @@ On Friday I made a small pong game. This was an online multiplayer game. While i
 
 Next time in a game jam, I'll create 'state data' for online synchronisation. Each synchronised object will own an instance of this state data, which will inherit from a network message. Thus instead of needing to convert and copy everything when an update is received, a simple memory copy will do the trick. While suboptimal for the final online version, this is appropriate in the LAN-only 'skateboard' version of the product.  
 
-## Week 5 (26th Feb 2018
+## Week 5 (26th Feb 2018)
 **SNOW WEEK!!!**  
 Unreal-wise, this week was minimalistic. I made a snowman though, with my Perforce socks on my hands--Michael would be proud! I miss him.  
 
@@ -90,3 +90,16 @@ Anyway, this week I worked a fair bit on **Handzer**, my Arduino game. I've stru
 To counter my non-iterative brain, I've added key commands so that I can control the game with the keyboard as well as the Arduino controller. That might sound small, but **it makes testing much faster** as I can test without the device. It's also giving me new perspectives for my motion detection algorithms by eliminating some of the distracting variables like sensor imprecision.  
 
 To improve, I have set a goal for the game. By next week I'll have a map with bottles or shadow enemies flying towards me, and I can blast them with my laser. This prioritises player experience. I'm already working on the laser blast graphics. It's gonna be great!  
+
+## Week 6 (5th Mar 2018) (220 - TOO MANY WORDS)
+This week we crunched for the Demiurge trailer.  
+
+What went well? I completed a ton of small tasks that made the game more player-friendly. This was thanks to having extended time in the studio each day. My personal productivity increased significantly.  
+
+What didn't go well? I realised this week I've been a largely inept scrum master. Depressing. Below are my mistakes, effects and solutions.  
+**Polling for meeting times:** Majority opinion was unhelpful, as common motivation was low. Set specific, regular meeting times instead.  
+**Communicate meeting times:** Due to the above vagueness, some members were seemingly unsure of when to come in. Take the above action and **keep a Google Calendar meeting timetable.**
+**Ignoring the Trello board:** Few volunteered to work on the presentation materials. Add the cards to the sprint if this short-notice happens again.  
+**Not suggesting roles:** Mango and I, despite being programmers, did the majority presentation work. This should have been covered by more team members. Tasks should have been **put on the Trello board** and a discussion should have decided who would take which roles.  
+
+Most of this hinges on **being more assertive.** However, I worry how little power I have, and how much I'll lose if the team likes me less. Key question is: **how do you get university students to do unscheduled stuff?**
