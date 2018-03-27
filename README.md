@@ -102,14 +102,26 @@ What didn't go well? I realised this week I've been a largely inept scrum master
 **Ignoring the Trello board:** Few volunteered to work on the presentation materials. Add the cards to the sprint if this short-notice happens again.  
 **Not suggesting roles:** Mango and I, despite being programmers, did the majority presentation work. This should have been covered by more team members. Tasks should have been **put on the Trello board** and a discussion should have decided who would take which roles.  
 
-Most of this hinges on **being more assertive.** However, I worry how little power I have, and how much I'll lose if the team likes me less. Key question is: **how do you get university students to do unscheduled stuff?**
+Most of this hinges on **being more assertive.** However, I worry how little power I have, and how much I'll lose if the team likes me less. Key question is: **how do you get university students to do unscheduled stuff?**  
 
-## Week 7 (12th Mar 2018)
-This was most notably Presentation Week. This was a research presentation followed by the game demos.
+## Week 7 (12th Mar 2018) (200 WORDS -- OK)
+This was most notably Presentation Week. This was a research presentation followed by the game demos.  
 
-Presenting in front of the entire was an emotionally-challenging task. Presenting a game where the character model was the Unreal dummy was taxing. Speaking with enthusiasm is an absolute necessity, and I haven't yet mastered the task of feigning enthusiasm. However, I felt a sense of pride from actually standing up there. In some ways I knew that the ability to present a game that was flawed beyond my control may well teach me the useful skill of pressing on. I was drained afterward--there were so many skilled and enthusiastic teams presenting their games, and I wished I had been a part of that.
+Presenting in front of the entire was an emotionally-challenging task. Presenting a game where the character model was the Unreal dummy was taxing. Speaking with enthusiasm is an absolute necessity, and I haven't yet mastered the task of feigning enthusiasm. However, I felt a sense of pride from actually standing up there. In some ways I knew that the ability to present a game that was flawed beyond my control may well teach me the useful skill of pressing on. I was drained afterward--there were so many skilled and enthusiastic teams presenting their games, and I wished I had been a part of that.  
 
 Behold, the notes written on my phone under my internal tears:
 **Challenge**: Microphone is too close. **Solution:** Monitor my position every slide and make sure it's sensible.
 **Challenge**: During questions, audience hands are hard to see. **Solution:** Give five full seconds to look for hands.
 **Challenge**: Went overtime. **Solution:** Memorise a script. I didn't want to do that, because my improvising skills need honing. But a script is a great backup when things go south.
+
+## Week 8 (19th Mar 2018)
+This week was Essay Week, the one week where we had enough time to work on the essay! Woo!
+
+I wrote long peer reviews again. Oops. However, vitally I finished them off within the session this time. We had two minimum to do. I was thorough, and wrote notes of several details that could use improvement, using them to eventually leverage my '3 recommended improvements'. I did more than was needed, but I had time.  
+
+One of the people I reviewed gave me a big thanks the other day and said it helped them a lot. That made me super happy. There may be hope yet! I remain uncertain about the best strategy.  
+
+Something less smooth was the Team Duo's tension this week. I noted something Doug said during the review: If someone isn't doing a task, someone else takes it. It's the Agile way. This introduces two improvements:
+
+- **Only one task per person on Trllo**: Makes it easier to notice stalling, and doubles as a clearer task list.  
+- **Return noncommunicated tasks to the backlog**: Makes it easier to resolve stalling. Tasks mustn't go over two work days without an update through stand-ups or Trello comment.
