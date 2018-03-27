@@ -103,3 +103,13 @@ What didn't go well? I realised this week I've been a largely inept scrum master
 **Not suggesting roles:** Mango and I, despite being programmers, did the majority presentation work. This should have been covered by more team members. Tasks should have been **put on the Trello board** and a discussion should have decided who would take which roles.  
 
 Most of this hinges on **being more assertive.** However, I worry how little power I have, and how much I'll lose if the team likes me less. Key question is: **how do you get university students to do unscheduled stuff?**
+
+## Week 7 (12th Mar 2018)
+This was most notably Presentation Week. This was a research presentation followed by the game demos.
+
+Presenting in front of the entire was an emotionally-challenging task. Presenting a game where the character model was the Unreal dummy was taxing. Speaking with enthusiasm is an absolute necessity, and I haven't yet mastered the task of feigning enthusiasm. However, I felt a sense of pride from actually standing up there. In some ways I knew that the ability to present a game that was flawed beyond my control may well teach me the useful skill of pressing on. I was drained afterward--there were so many skilled and enthusiastic teams presenting their games, and I wished I had been a part of that.
+
+Behold, the notes written on my phone under my internal tears:
+**Challenge**: Microphone is too close. **Solution:** Monitor my position every slide and make sure it's sensible.
+**Challenge**: During questions, audience hands are hard to see. **Solution:** Give five full seconds to look for hands.
+**Challenge**: Went overtime. **Solution:** Memorise a script. I didn't want to do that, because my improvising skills need honing. But a script is a great backup when things go south.
