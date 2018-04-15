@@ -123,5 +123,11 @@ One of the people I reviewed gave me a big thanks the other day and said it help
 
 Something less smooth was the Team Duo's tension this week. I noted something Doug said during the review: If someone isn't doing a task, someone else takes it. It's the Agile way. This introduces two improvements:
 
-- **Only one task per person on Trllo**: Makes it easier to notice stalling, and doubles as a clearer task list.  
+- **Only one task per person on Trello**: Makes it easier to notice stalling, and doubles as a clearer task list.  
 - **Return noncommunicated tasks to the backlog**: Makes it easier to resolve stalling. Tasks mustn't go over two work days without an update through stand-ups or Trello comment.
+
+## Week 9 (9th Apr 2018)
+Some focus points of this week:
+- PASS leader programme and taking up too much time on my weekend. I overestimated the energy I'd have and dealing with the lack of Asda shopping time etc.
+- Playtesting! This week I realised the importance of laytesting. 
+- Over the holidays: getting people to update the Slack. A lot of the commits over the holidays were by me. I tried to keep everyone up-to-date but it felt largely ineffective. I need to reflect more deeply on this.
