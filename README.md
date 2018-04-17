@@ -126,8 +126,11 @@ Something less smooth was the Team Duo's tension this week. I noted something Do
 - **Only one task per person on Trello**: Makes it easier to notice stalling, and doubles as a clearer task list.  
 - **Return noncommunicated tasks to the backlog**: Makes it easier to resolve stalling. Tasks mustn't go over two work days without an update through stand-ups or Trello comment.
 
-## Week 9 (9th Apr 2018)
-Some focus points of this week:
-- PASS leader programme and taking up too much time on my weekend. I overestimated the energy I'd have and dealing with the lack of Asda shopping time etc.
-- Playtesting! This week I realised the importance of laytesting. 
-- Over the holidays: getting people to update the Slack. A lot of the commits over the holidays were by me. I tried to keep everyone up-to-date but it felt largely ineffective. I need to reflect more deeply on this.
+## Week 9 (9th Apr 2018) (193 WORDS--OK)
+This week I had an epiphany. Our team **doesn't do enough playtesting**. Many of the problems with motivation, knowing what to do, and prioritisation would have been reduced had we organised more times to test the game.  
+
+To help this I started off by prompting a playtest on Monday. Keeping the whole team at attention can be challenging--sometimes it feels like some people don't get involved. I should nag them more we while test it, or maybe structure it so that we each get **2 minutes** to play the game. That's for the future.  
+
+This is so important--we need to see the progress we've made collectively, rather than just our own progress. We should've been playtesting more. I think I had a role in **failing to organise playtests**. From an emotional standpoint I simply didn't like **pressuring them to stay around**: it often feels that **after the PO meeting, everyone wants to go home**. As scrum master I should **organise playtests at regular intervals** and stand unaffected by others' motivation levels. I regret not doing this sooner.  
+
+On the bright side, it got done. We're now working with an appropriate priority list. Deadline-ho!
