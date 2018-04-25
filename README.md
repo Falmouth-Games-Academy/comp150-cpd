@@ -134,3 +134,84 @@ To help this I started off by prompting a playtest on Monday. Keeping the whole 
 This is so important--we need to see the progress we've made collectively, rather than just our own progress. We should've been playtesting more. I think I had a role in **failing to organise playtests**. From an emotional standpoint I simply didn't like **pressuring them to stay around**: it often feels that **after the PO meeting, everyone wants to go home**. As scrum master I should **organise playtests at regular intervals** and stand unaffected by others' motivation levels. I regret not doing this sooner.  
 
 On the bright side, it got done. We're now working with an appropriate priority list. Deadline-ho!
+
+
+## Week 10 (18th Apr 2018) (188 WORDS--OK)
+Most likely the most stressful week of the year thanks to the two massive deadlines (and an itty bitty 3rd one) in two days.  
+
+**Adding sounds and music to the game was the best thing to happen** in the past couple weeks. Next time it **must be done sooner**--it improved motivation levels significantly, for me at least. Speaking of motivation levels, our writer contributed significantly more work than usual the past two weeks. I noticed that this was partly because she was working on the map despite likely conflicts with our designers.  
+
+That opens an area of improvement: **autonomy**. Being fearful of conflicts with other members' work **reduces productivity**. To reduce this fear we could adopt a 'wilder' method where we **work despite conflicts**, allowing them to happen and resolving them later. This has one key benefit: instead of *discussing* possible differences before work is done, we *see* them side-by-side. It might require more work, but the autonomy of team members will boost their motivation greatly.  
+
+Next time I'll promote this method of working. Two principles: **Continuous integration** and **no fear of conflicts**.
+
+# A retrospect on the game
+What a wild ride this was. There are so many takeaway points from this teamworking experience, I couldn't write it down in a way that keeps it brief and concise. Actually, let's do that.  
+
+What did I learn over this, in short?
+### Social
+* Different people need to be treated in different ways  
+* Actions mean more than words--if a team member says they'll do something, get sharp to it fast: are they the kind of person who delivers on their promises?  
+* Don't stress myself out. My stress can **affect other people** and it's better that I convey a **positive attitude**.
+* **Love the game and the idea**. If people don't love the game and idea, **something's very wrong**!
+
+### Productivity
+* Sometimes you gotta ask yourself: **where is the character model?**  
+* Give **timeframes** for work. We need to know **when** it'll be done.  
+* If work isn't being done by someone else, **do it yourself**.
+* Make sure everyone knows how to use the Trello board. Many times, someone grabbed a task, and over weeks, never did it. **One task at a time!**
+
+### Concept
+* Large-scale single-player games are too big. If we have a writer, don't try to make a large story game just for them. Scale down the game and the writing will scale down with it.  
+* Again, everyone needs to love it.
+
+What could I do to improve some of the above problems?  
+* Add **expiry dates** to Trello cards. If they're not done by a certain time and we don't hear from a team member, **they go back**.  
+* Find someone to be the **team cheerleader**. Team cheerleaders are funnest personalities on the team and their role is to motivate people and keep track of what everyone's done.  
+* **Have regular playtests**. I cannot stress this enough! We **need** regular playtests.  
+* Hire a **Producer**. They may or may not be the team cheerleader. They should be **different** from the scrum master because the scrum master coordinates and communicates work, but the producer coordinates and communicates the creative direction of the game.  
+
+## Thoughts
+What was my role in this game? It's kind of weird, but there were many times where I felt like the team relied on me. That was nice, but a double-edged sword. For example, when I felt the level design was looking bland, I demonstrated a methodology of designing levels. I took a piece of paper, and converted a dull circle with pits in it into a small branching path with alternating challenges and rewards. On the plus side, I helped inspire the designers to make more complete levels. On the negative side, sometimes my suggestions were taken like commands--for example, one of the designers took the layout I proposed, placing it into the area of the level that I intended to only demonstrate.  
+
+I might have spoken my mind too much in what I now believe was a mostly introverted team. As always, I usually made sure to let others speak and make it clear that my opinion is only mine. But on a psychological level, I might have created a feeling that I was unbeatable--I can make a convincing argument, and can put money where my mouth is, quite fast, through extreme effort. This didn't apply across the board of course, and most of them seemed comfortable saying their views to me. But I don't think that's always a good inspiration. If, conversely, I had an appearance of cluelessness (but reliable so people don't hate me for not delivering on work!), perhaps others would see that as a chance to be the hero of their department, and would produce much better output motivated by the idea that **they're the best one to do the job**.  
+
+But I don't want to change my personality in that way: I have particular opinions about things, and to hide them would not be conducive to good team communication. Everyone should say what they think if they have strong thoughts, so long as the delivery is appropriate. Perhaps I speak too much. But I stop short of anything that I feel is causing undue conflict, and I work reliably according to what we agree on. I'm a little too hardcore either way.  
+
+A more direct solution to that would be to **dedicate clearer roles to everyone**. That could give everyone a sense of identity and purpose, while also giving them more power to disagree with my suggestions.  
+
+## A retrospective on the previous CPD report
+This is a chance to critique the action I applied according to my previous CPD report. The fact that I have forgotten the entire thing is bad, but this is a chance to sit down and look at how I was then and now.
+
+### Affective - Social Anxiety and Reaching Out
+I **did not achieve this goal**. For a few weeks I was reading the pages as planned, usually at least ten rather than six, but I eventually encountered SilverCloud and opted to move to that instead, as I couldn't actually write anything in the library book and there were no forms online.  
+
+Social anxiety still has a huge impact on my life, but I'm growing increasingly aware of the benefits of getting difficult tasks over with. I still procrastinate when under high pressure, such as deadlines (and by "procrastinate", I mean to work on those instead), but I've consistently found getting things out of the way sooner works best. I haven't had many circumstances where I need to use the phone, so that anxiety still remains somewhat uncontested.  
+
+As for SilverCloud, it hasn't been as effective as I'd hoped. While I use it for retrospectives, the website is so, so sterile, and I'm not a fan of seeing clinicians putting on a smile so that they can convey a particular psychological efefct that they want to have on the user. I'm sharp to that. Just tell me the world sucks sometimes! Be honest or something! I know you're trying to make the user feel comfortable, but psychological tricks don't work as well on me as honesty and strategy.  
+
+### Interpersonal - Being Inspirational
+I **achieved the goal** of making at least four tracks of music! According to my diary, some weeks were hollower than others and I produced less than 30 seconds. I felt uninspired at times--that's just how it was. When I pitched the music to the team though, it did inspire some of them. **Yay!** Of course the inspiration was short-lived, though the addition of the music during the final stages of development reignited my own personal motivation to polish and finish the game!  
+
+The music also served as the background track for the trailer, making it an overall successful and very satisfying effort. I loved having my own music on stage. Hope the audience liked it too. (They never knew who made it!)  
+
+It did not bring artistic motivation however, but at this stage I feel this lack of creativity was due to the work ethic and skills of the artists. We didn't have character artists, and there was no 2D concept art; and while I'm unsure of the reasons why, by the 10th week I could assure myself that the ball lay in their court. My music probably wouldn't make a difference.  
+
+### Dispositional - Multi-tasking
+I **did not achieve this goal**, or at least not fully. My diary lasted for a while but I soon lost track under the pressure of my assignments. Multi-tasking is still a big weakness for me and I continue to have trouble breaking focus. Focus and comfort are the carrots on my stick.  
+
+I did, however, occasionally employ a **15-minute swap strategy**. This involved giving myself two tasks to do, and for an hour or two, I set a Google Timer when starting the task. Once the timer went off, I reset it and switched to the other task. It was a **fun exercise** and I want to keep doing it. Perhaps I'll set a **specific time and date** per week so that I do it more regularly.
+
+It's possible that this challenge was *too vague**. I had to make additional effort to plan out the tasks in hand, unlike the music task where I had a specific time goals to meet, and a team to present them to as a confidence-building feedback loop. Frankly, I need to be more specific. What creative task shall I do? Should it be art? Video making? Music?  
+
+For my world-building project I think **art** and **music** should be at the forefront. **Music** especially, because that leaves enough abstraction for the artists to fill in the gaps with their own view of the project. Much as mentioned in our lecture earlier this week (10), leaving the specifics blank could make my world much more impactful. The music, however, I can use as a backdrop and demonstration of my skill and style.  
+
+### Cognitive - Class Shenanigans and Instantiation
+**Easy-peasy.** I for one thing cannot wait to return to my Genesis project and laugh at all my terrible, m-allocated class code. I used virtual functions for inheritance and tried several new concepts relating to C++ and OOP practices.  
+
+My **fear of inefficiency** is finally dying, supported by the fact that compilers happen to be much smarter than I thought they were. And as is the Agile way, optimisation can and should be done at a later stage than the beginning outside of time-sensitive code. I even ran experiments that showed me the OOP way was in fact faster than some procedural cases, and in other cases there was minimal difference.  
+
+The improvement in programming time is.... questionable. Writing new classes everywhere really is a lot slower than writing sequential function-based code. It's all about the maintainability once it gets too large. I still question the benefits of using OOP in small projects, but that's a topic for another day.  
+
+### Procedural - It's not Broken until It's Made
+**Mixed results**... Sometimes I followed this principle, other times I got distracted and didn't. I've improved overall, though. I never made an "Optional" checklist. Not much to say on this one: I need to try it again, and pay attention this time.
