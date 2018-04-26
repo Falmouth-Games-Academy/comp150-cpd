@@ -1,0 +1,81 @@
++ Check feedback of last document
+  - Less humour, more clarity on what success is
+- Go through last document and read my retrospectives,
+- Make notes of what happened
+- Pick important things to work on
+
+Specific, Measurable, Achievable, Relevant, Time-constrained
+
+Week 1:
+- Unreal is slow
+- Team attendance won't be perfect
+- Being a scrum master encompasses many roles that I didn't know at this point
+
+Week 2:
+- Nag the team about the Trello board. Be annoying, nag nag nag.
+ - Note: I don't think I actioned the @'ing thing, oops
+- We should hang out more
+ - Note: This didn't really happen to be honest, and I think our team is mostly introverts. I wonder, could I have made this better or worse? I'm far too work-   focused. That impacts others...
+
+Week 3:
+- Dialogue system is dumb and painful when integrated into Unreal.
+- I begin to notice issues with the stand-up times.
+
+Week 4:
+- Inspiration came from implementing the gameplay.
+ - Note: Fun, artistic things that look good should go first. Aesthetic matters to motivation. Remember this for next time!
+- Pong game synchronisation should be simple in a short game jam game. Don't bother sending control mappings, etc. Then again, IIRC no one else bothered to make a game at all so yah ^^
+ - Note overall: Remember....skateboard first! Skateboards are cool and inspiring!
+
+Week 5:
+- Snow week!!! Here I realised I'm ultimately gonna die someday by ice skating into a road.
+- Added keyboard control to Handzer
+ - Note: Skateboard yo.
+- Created a laser goal for Handzer.
+
+Week 6:
+- Laser goal wasn't achieved due to work on group game.
+ - Note: Skateboard bro....
+- Demiurge trailer was crunched in like a day. It was RIDICULOUS.
+ - Note: Why did we programmers do so much? Where were the artists in this?
+- Scrum master improvement: Learned that polling won't work in an unmotivated team.
+ - Note: Really. Polling the team was dumb: I could tell that most of them didn't really want to come in.
+ - Note: Next time, take feedback on board and try different times. See the results. Assertion.
+- Scrum master improvement: Clearly communicate incoming times.
+ - Note: I eventually created a #scrum channel in Slack. This worked much better! Do this next time.
+ - Note: I planned to use Google Calendar but couldn't get anyone on board. I want to try this again, and promote it in #scrum.
+- Scrum master improvement: Add Trello cards for the presentation resources early on, this way everyone could find a place to help.
+- Scrum master improvement: Give roles
+ - Note: We should've had a meeting at the beginning of the week to establish that this was a thing, too, and also to establish roles.
+ - Note: Big problem with that is no-one knew video editing...and few put forward the proposal that they're learn it for our sake.
+- Scrum master stuff: Even as scrum master, what power do I really have in a university team?
+ - Note: The power of.... persuasion!!
+
+Week 7:
+- Presentation time!!!
+- Challenge: Microphone. Solution: Monitor my position on every slide, making sure I'm a good distance from it.
+- Challenge: Question time. It's really hard to see people's hands! Solution: Give myself a full five seconds to look for hands. Then panic that I've missed them.
+- Challenge: Went overtime. Solution: Memorise a script...which I really don't want to do because improvised communication is an important skill for me to learn. However, a baseline script of what I should say would give me backup for the times that my natural delivery can't keep up.
+- Challenge: Nerves.
+- Autism/introversion alert: After doing a presentation in front of loads of people, I will probably become very tired and not very responsive/friendly.
+ - Note: Maybe I should just let everyone know this next time: Guys, just in case you wanna know, after the presentation I might be tired and seem like I'm not paying attention to what you're saying. Just want to warn you in advance, because I won't have that much energy, but that's just the way I get. Don't take it personally OK!
+
+Week 8:
+- Flippin' peer reviews.
+ - Note: On the other hand, Sam said thanks for his review and that it helped him. Still, I could make my points more concise. further.
+ - Note: I did provide concise points. However...I provided them on top of an extremely detailed essay of notes.
+- Doug's words: It's not getting done? Someone else does it. Simple.
+ - Note: This should be brought up in the future. It's not being done. 'Why isn't it being done? Can another artist/programmer/designer/writer/animator do it?'
+- Scrum master improvement: One task per person on Trello.
+ - Note: Consider expiry dates when someone's clearly stalling.
+
+Week 9:
+- DO PLAYTESTING. I realised this week one of the biggest things we were missing.
+ - Note: To be honest, I always wanted playtests, but it was hard to decide times to get the team to do it. Who will really come in? When? But next time it'll be much, much higher on my priority list to make sure that we are doing scheduled playtest sessions.
+ - Note: Playtests give inspiration, fun, indicators of progress, and insight into what's good, bad, and needs improvement in our game. Why didn't we do the sooner? Durrrrh. In my defense this was a team where apparently no-one else even wanted to be scrum master.
+
+Week 10:
+- Music!!! This was so worth it. It made such a big difference to my own motivation levels and therefore probably everyone else's.
+- The power of autonomy... sometimes it's easier to work when no one else is around.
+ - Note: Don't fear conflicts, embrace them as chances to see valid, alternative pieces of work.
+- On a side-note...even after the game was finished, it was hard to get anyone to play the game. For fun. It's a massive shame, but whatevs. I'm pretty happy with it...is that a bad sign?

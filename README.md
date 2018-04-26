@@ -41,7 +41,7 @@ I need to step back and look at the things that have slowed me down these past f
 I've played a role in making sure everyone knows how SVN works. I made a channel in Slack, however I noticed **not many people read it**. There were many who **asked me how SVN works** despite all the information being there. I believe this is fine, perhaps just a lack of self-motivation on their part. Question is, **could I do more to encourage the team to read my tutorial(s)**?
 
 ## Hanging out
-We really need to hang out more--I ntoice that we get to know each other best in **scenarios where we're not working**. And I feel it'd be great benefit to know each other, there's more motivation in pleasing people you know well than those you don't--not everyone is as **motivated by work as I am**, and furthermore that motivation very very much excludes Unreal.
+We really need to hang out more--I notice that we get to know each other best in **scenarios where we're not working**. And I feel it'd be great benefit to know each other, there's more motivation in pleasing people you know well than those you don't--not everyone is as **motivated by work as I am**, and furthermore that motivation very very much excludes Unreal.
 
 # Journal
 ## Week 1 (29th Jan 2018) (notes)
@@ -134,7 +134,6 @@ To help this I started off by prompting a playtest on Monday. Keeping the whole 
 This is so important--we need to see the progress we've made collectively, rather than just our own progress. We should've been playtesting more. I think I had a role in **failing to organise playtests**. From an emotional standpoint I simply didn't like **pressuring them to stay around**: it often feels that **after the PO meeting, everyone wants to go home**. As scrum master I should **organise playtests at regular intervals** and stand unaffected by others' motivation levels. I regret not doing this sooner.  
 
 On the bright side, it got done. We're now working with an appropriate priority list. Deadline-ho!
-
 
 ## Week 10 (18th Apr 2018) (188 WORDS--OK)
 Most likely the most stressful week of the year thanks to the two massive deadlines (and an itty bitty 3rd one) in two days.  
