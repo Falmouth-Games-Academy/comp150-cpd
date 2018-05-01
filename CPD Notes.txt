@@ -1,0 +1,62 @@
+Some things I'm bad at:
+- Using the phone
+- Messaging someone
+- Resolving conflicts
+- Dressing (lol)
+- Organising tasks
+- Being patient
+- Not focusing too much on things
+
+Significant events:
+- Me vs Connor shooting down my ideas, working out my place, trying to keep spirits up, trying to find places to contribute
+- My second team not sharing contacts details on the first day
++ Creating a Discord and bringing everyone together before it was too late
+- My failed game pitch (too outlandish)
+- No rehearsal on my game pitch
+- Pair programming, and being ahead of everyone else
+- Stressing out Tomas: first signs of learning how to inspire
+- Learning with Tomas, the improvements over time
+- Taking more breaks
+- Beren.
+- Smooth sailing during development of Frontier
+- Classes and inheritance: should they all call parent init?
+- Making sprite rotation and the time it took to get it working
+- Learning to reduce focus on such problems
+- Essay week and a world of pain. Managing word count
+- Peer reviews and a full day of trying to review work (making work too hard)
+- Taking Michael's advice on a prototype collision system
+- Trying to make a presentation last-minute with my team
+- Performing in the presentation, doing a save on the 'but is it too difficult' question
+
+Present day!:
+- Handling word count and depth of insight etc
+
+Aspirations:
+- To release Critical Critters
+- To code a game
+- To also have significant impact on the game concept
+- To run a studio
+- To be successful at reaching out
+- To work in teams
+
+Consequential aspirations:
+- To be better at reaching out
+ - To reduce social anxiety
+- To adapt to industry practice
+- To adapt to industry languages
+ - While still pushing the boundaries of performance
+
+Flaws:
+
+Current domain coverage:
+Affective:
+Dispositional: Focus and task-switching
+Interpersonal:
+Procedural: Resolving collision detection
+Cognitive: Class inheritance
+
+What I got better at:
+- Presentations
+- OOP:
+ - Learning, through Python, the usefulness of C++-style programming and the 'new' operator
+ - Well except the RAII problem
