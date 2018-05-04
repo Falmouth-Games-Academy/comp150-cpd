@@ -44,46 +44,37 @@ I've played a role in making sure everyone knows how SVN works. I made a channel
 We really need to hang out more--I notice that we get to know each other best in **scenarios where we're not working**. And I feel it'd be great benefit to know each other, there's more motivation in pleasing people you know well than those you don't--not everyone is as **motivated by work as I am**, and furthermore that motivation very very much excludes Unreal.
 
 # Journal
-## Week 1 (29th Jan 2018) (notes)
-This week summarised: I tried to finish developing my dialogue system, and had a headache trying to transfer it into Unreal. Learning Unreal is very slow--still don't know how to handle it. Noticing team attendance is wobbly. Trying to learn to become a scrum master and missing many vital elements.
+## Week 1 (29th Jan 2018) (194 words)
+This week, I worked primarily on the dialogue system in comp130. I basically finished writing it in a console program, and began transfering it into Unreal. Turns out Unreal is **slow**. Compile times for just a few files are measured in minutes. If it crashes, I need to wait for it to reopen. Noting this, I can say that prototyping the system in a console program was a good decision.  
 
-## Week 2 (5th Feb 2018)
+This was my first time being a scrum master. I'm motivated by the fact that everyone was happy for me to do it, though unmotivated by the fact that no-one else wanted to do it.  
+
+I noticed the Trello board wasn't being used very effectively. At the PO meeting I was adviced to actively remind everyone to update the Trello board, which I will do on a regular basis next week. The Trello board needs updating at the start of the session and ideally at the end of the session as well. For now though I'll ensure it happens during the start by routinely checking everyone's progress and reminding them at the start of each session. I will become known as Trello Man!  
+
+## Week 2 (5th Feb 2018) (198 words)
 This week I continued into the Unreal work. C++ is especially hard to work around, not only because of compile times, but because nobody else uses it. This makes me question my role as a programmer, although the dialogue system is coming together nicely.  
 
 In other news, following Brian's advice in the Week 1 PO meeting, I've been nagging the team more regularly about updating the Trello board. Results are mixed--many say they'll do it, but it just doesn't get done. I figure this boils down to simple forgetfulness, so hope that continued nagging will solve it eventually, but this is a concern for the future. Additionally, I've noted that the scrum master is perhaps meant to take more detailed notes about each member's arrival/departure time, so have updated the timetable accordingly.  
 
-With regards to the former, I'll monitor the success of the 'continued nagging' approach. If the Trello board isn't updated more regularly within the next few weeks, I'll start watching the Trello log each day. If the Trello baord hasn't been updated on that day by any specific person, I'll send a reminder to each person by @'ing them on Slack after the session.  
+With regards to the former, I'll monitor the success of the 'continued nagging' approach. If the Trello board isn't updated more regularly within the next few weeks, I'll start watching the Trello log each day. If the Trello board hasn't been updated on that day by any specific person, I'll send a reminder to each person by @'ing them on Slack after the session.  
 
-**(previous notes)**
-This week summarised: Managing tasks. Communicating more. Unreal headaches, and perhaps not communicating my own progress enough. Noting a lack of content showing--we need to showcase more.
+## Week 3 (12th Feb 2018) (209 words)
+Another week, another plethora of Unreal errors. I implemented and demonstrated the dialogue system (before it broke again). Meanwhile, I worked on my Arduino project, building its engine. This is on top of trying to be a better Scrum master. To my credit, I've been nagging everyone about the Trello boards. Attendance isn't too bad, but I have room to improve when it comes to communicating the stand-up times and deciding them. The team's motivation is an additional factor -- in some ways though I'm the one in the best position to improve that.  
 
-Later on in this week I realised a scrum master is supposed to, or at least could keep more specific times that people came in. I was always wondering this, but was concerned it was too pedantic--apparently not, this is a working environment after all and stating whether someone was present at no particular time isn't specific enough!  
+For better clarity of attendance, I made a new meetings register template for the second sprint. I noticed a register posted on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing, so I added the same. I've been largely keeping good on top of it, though there have been occasions where I've forgotten to note down someone's leaving time, and I add it retroactively. I need to pay extra attention to the people leaving.  
 
-Started nagging people to update the Trello board a little more. It's still shaky, but I've noticed that a few members are updating me more often about their progress, which is fantastic.  
+I notice that if I don't write down someone entering or leaving immediately, I tend to forget it. So I'll make a habit of doing it immediately as I notice.
 
-I'm still bowing under the pressure of Unreal. This week I was trying to merge the projects together into one but couldn't do so without errors from every direction. Even simply renaming a project is enough to make the system cry 'irreparable error'.  
-
-Focus could be the problem, but honestly, maybe I should be seeking more help from the tutors. From a programming perspective, we're not being taught much useful about Unreal. We're not learning Unreal code or Blueprints so far. Even I'm not self-motivated enough to sit through those compile times and hours of headaches over doing simple tasks which I've literally made my own engine to handle in the past. Yet we need self-motivation to learn what we're doing. Props to Tomas for showing the most of it, and to the others for trying--while only some results have cropped up so far, I can see the thousand-yard stare of Unreal terror in their eyes.  
-
-In the meantime, started to work on Arduino project on the weekend. It's fun! And perhaps taking too much of my time. But I love having the freedom to try exactly what I want.  
-
-My personal life is alright. I want to get out more and meet people. On that topic, I note after the lecture today that it'd be a good idea to hang out with the team for more fun stuff as well. We benefit a ton from knowing each other more. I went out with Chris and Dary Saturday--it was great fun--and I think it's good to relax, enjoy ourselves and realise we're not stalking each other's trello activity 24/7.
-
-## Week 3 (12th Feb 2018) (notes)
-Another week, another plethora of Unreal errors. On the bright side, I implemented and demonstrated the dialogue system (before it broke again). Meanwhile, I've been working on my Arduino project, building its engine and everything. This is on top of trying to be a better Scrum msater. To my credit, I've been nagging everyone about the Trello boards. However, I have room to improve when it comes to communicating stand-up times, and managing them.  
-
-For the second sprint, I made a new meetings register. I noted a register mentioned on Slack that had a lot more detail, e.g. time in and time out, than the one I was doing previously. I've been largely keeping good track, though there have been occasions where I've forgotten to note down someone's leaving time and do it in retrospect.  
-
-## Week 4 (19th Feb 2018)
+## Week 4 (19th Feb 2018) (184 words)
 This week I implemented shield deflection into Demiurge. By showing this tangible gameplay I definitely **helped inspire** some of the team. While it's a small step, every bit of motivation counts. I hope to continue this trend of showing and inspiring.  
 
 On Friday I made a small pong game. This was an online multiplayer game. While implementing network synchronisation, I decided to create a ControllerMessage type, which specified inputs from players. However, I quickly realised that since the logic was client-side, I was starting to **include state data with input data**. Also, I was **assigning** each element to the objects' variables when they sent and received them. This slowed production significantly.  
 
 Next time in a game jam, I'll create 'state data' for online synchronisation. Each synchronised object will own an instance of this state data, which will inherit from a network message. Thus instead of needing to convert and copy everything when an update is received, a simple memory copy will do the trick. While suboptimal for the final online version, this is appropriate in the LAN-only 'skateboard' version of the product.  
 
-## Week 5 (26th Feb 2018)
+## Week 5 (26th Feb 2018) (200 words)
 **SNOW WEEK!!!**  
-Unreal-wise, this week was minimalistic. I made a snowman though, with my Perforce socks on my hands--Michael would be proud! I miss him.  
+Unreal-wise, this week was minimalistic. I made a snowman though, with Perforce socks on my hands; Michael would be proud! I miss him.  
 
 Anyway, this week I worked a fair bit on **Handzer**, my Arduino game. I've struggled to **prioritise tasks** for this project. My perfectionist brain wants everything to be nice and refined at the beginning, in a total rejection of the iterative approach. Bad perfectionist brain. Bad!!! However, what resulted--my 2.5D level editor--is quite a 'handy' tool to have.  
 
@@ -91,7 +82,7 @@ To counter my non-iterative brain, I've added key commands so that I can control
 
 To improve, I have set a goal for the game. By next week I'll have a map with bottles or shadow enemies flying towards me, and I can blast them with my laser. This prioritises player experience. I'm already working on the laser blast graphics. It's gonna be great!  
 
-## Week 6 (5th Mar 2018) (220 - TOO MANY WORDS)
+## Week 6 (5th Mar 2018) (220 words)
 This week we crunched for the Demiurge trailer.  
 
 What went well? I completed a ton of small tasks that made the game more player-friendly. This was thanks to having extended time in the studio each day. My personal productivity increased significantly.  
@@ -114,7 +105,7 @@ Behold, the notes written on my phone under my internal tears:
 **Challenge**: During questions, audience hands are hard to see. **Solution:** Give five full seconds to look for hands.
 **Challenge**: Went overtime. **Solution:** Memorise a script. I didn't want to do that, because my improvising skills need honing. But a script is a great backup when things go south.
 
-## Week 8 (19th Mar 2018)
+## Week 8 (19th Mar 2018) (199 words)
 This week was Essay Week, the one week where we had enough time to work on the essay! Woo!
 
 I wrote long peer reviews again. Oops. However, vitally I finished them off within the session this time. We had two minimum to do. I was thorough, and wrote notes of several details that could use improvement, using them to eventually leverage my '3 recommended improvements'. I did more than was needed, but I had time.  
@@ -126,7 +117,7 @@ Something less smooth was the Team Duo's tension this week. I noted something Do
 - **Only one task per person on Trello**: Makes it easier to notice stalling, and doubles as a clearer task list.  
 - **Return noncommunicated tasks to the backlog**: Makes it easier to resolve stalling. Tasks mustn't go over two work days without an update through stand-ups or Trello comment.
 
-## Week 9 (9th Apr 2018) (193 WORDS--OK)
+## Week 9 (9th Apr 2018) (197 WORDS--OK)
 This week I had an epiphany. Our team **doesn't do enough playtesting**. Many of the problems with motivation, knowing what to do, and prioritisation would have been reduced had we organised more times to test the game.  
 
 To help this I started off by prompting a playtest on Monday. Keeping the whole team at attention can be challenging--sometimes it feels like some people don't get involved. I should nag them more we while test it, or maybe structure it so that we each get **2 minutes** to play the game. That's for the future.  
@@ -135,7 +126,7 @@ This is so important--we need to see the progress we've made collectively, rathe
 
 On the bright side, it got done. We're now working with an appropriate priority list. Deadline-ho!
 
-## Week 10 (18th Apr 2018) (188 WORDS--OK)
+## Week 10 (16th Apr 2018) (186 WORDS--OK)
 Most likely the most stressful week of the year thanks to the two massive deadlines (and an itty bitty 3rd one) in two days.  
 
 **Adding sounds and music to the game was the best thing to happen** in the past couple weeks. Next time it **must be done sooner**--it improved motivation levels significantly, for me at least. Speaking of motivation levels, our writer contributed significantly more work than usual the past two weeks. I noticed that this was partly because she was working on the map despite likely conflicts with our designers.  
