@@ -135,6 +135,11 @@ That opens an area of improvement: **autonomy**. Being fearful of conflicts with
 
 Next time I'll promote this method of working. Two principles: **Continuous integration** and **no fear of conflicts**.
 
+## Week 11 (23rd Apr 2018) (195 words)
+I had a decently productive and well-managed week! This is thanks to having minimal coursework to do. One thing I did in my free time was **write the CPD report in 200-word batches**, using **LifeRPG** to track my progress. On top of that, I've been reading the book 'Influence' by Robert Cialdini the past few nights. I planned to use it to improve my effectiveness in persuading, but the book takes a primarily market-oriented approach. It's still useful, however, for identifying others' persuasion methods and learning to separate my own thoughts from the ideas around me. This will be handy in becoming a stronger and consistent person when negotiating with others.  
+
+There is another book that I'm looking to loan once it's available: The 7 Habits of Highly Effective People by Stephen Covey. Another includes Directing Games: 101 Tips for Creative Leaders, one of the few game-oriented creative leadership books, by a creative director at Insomniac Games, creators of Spyro. I suppress an internal squee. Anyway, I'm making it a habit to have earlier nights, using the time to read useful and relevant books, before enduring the rare state of sleep.  
+
 # A retrospect on the game
 What a wild ride this was. There are so many takeaway points from this teamworking experience, I couldn't write it down in a way that keeps it brief and concise. Actually, let's do that.  
 
@@ -148,7 +153,7 @@ What did I learn over this, in short?
 ### Productivity
 * Sometimes you gotta ask yourself: **where is the character model?**  
 * Give **timeframes** for work. We need to know **when** it'll be done.  
-* If work isn't being done by someone else, **do it yourself**.
+* If work isn't being done by someone else, **do it yourself**.  
 * Make sure everyone knows how to use the Trello board. Many times, someone grabbed a task, and over weeks, never did it. **One task at a time!**
 
 ### Concept
