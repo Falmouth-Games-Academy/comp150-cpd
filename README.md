@@ -1,8 +1,6 @@
 # COMP150 - Reflective Journal to Accompany My CPD Report
 
-You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
-
-This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.
+# Semester 1
 
 ## Week 0
 
@@ -109,4 +107,60 @@ Self-teaching is fine, while you walk the line,
 But chance to dine, with the sun in the sky,  
 And you’ll find that the end is more than quite nigh  
 
+
+
+# Semseter 2
+
+## Week 1
+This first week has been fairly unorganised, which is somewhat to be expected. We made the decision to work exclusively on Tomas’ prototype, which has given us all a base to build on. I think the biggest problem our team is encountering (which was also encountered when we original met to concept ideas) is a lack of creative direction and leadership. While we have good artists, designers, etc, there is no one to codify important aspects such as aesthetic or tone.  
+
+It’s not the biggest problem we could face, but I do feel that there isn’t much of a consensus among the team as to the creative direction the game should go in. As a programmer I am reluctant to try and step in and take creative control, especially as I know little about this area, but I do think that in the future, we should designate some sort of artistic director to ensure a degree of unity in our art style.
+
+## Week 2
+I have spent this week working on implementing a shooter enemy character, as our game seems to be leaning more towards a bullet-hell style of gameplay. With my limited programming experience (especially in Unreal) I have found myself largely working of the existing codebase, mostly creating subclasses and adding small functions here and there. Although this is appropriate in this instance, I feel that my capacity for original contribution to the project is fairly low. I plan to expand the classes I have made more to gain a better understanding of  blueprints and the Unreal engine. 
+
+## Week 3
+I haven’t done as much work on the game project as I would like this week, as I’m still unfamiliar with unreal and find it difficult to implement what appear to be simple features, such as enemy movement and shooting. I have however tackled the big SVN issues we’ve been having, with help from Brian. As none of us have used SVN before - and only a few of us have used version control at all – using SVN has been a stumbling block for the team in these past few weeks.   
+
+Errors, conflicts and lost work have slowed development and I think some of the team find it disheartening. I sat down with Brian and we worked through the various issues (unversioned files that should be versioned, folders wrongly added to SVN, merge conflicts, etc.) until the server was in working condition, and much, much cleaner. This has shown me how important it is to spend the time to correctly set up version control, and also the need to make sure everyone on the team understands how to use it, and how to deal with common problems.
+
+## Week 4
+One of my first goals this week was to remove the redundant unreal projects from our SVN server, as we had had three different projects all versioned, making pulling from the server very slow. This poor project structure came about due to our early prototyping methods and a lack of definitive management of the SVN server. Perhaps a weekly review of the project and file structure could have helped alleviate this?  
+
+Aside from this, I continued to work on shooting enemies, having no made much progress last week. I added a new controller to make them face towards the player while shooting. This brought a host of new problems and bugs with it which I have been working through. I also created two subclasses of projectile to differentiate between player and enemy projectiles. However, this highlighted an issue with our development process when I had to explain how the new projectile classes worked. We never designed an overall architecture, or rough layout of the systems, instead we have been improvising new classes whenever they are needed. 
+This has made our development somewhat chaotic. I feel that a greater level of communication between the programmers – perhaps in the form of a weekly review of each other’s code - would help reduce the confusion caused by our lack of planning. 
+
+## Week 5
+The first half of this week has been focused on research for the software engineering essay, mainly using the university library and IEEE websites. One of the problems I encountered during this research was the lack of scholarly articles directly addressing the video games industry. It seems that a vast majority of the papers on software engineering practices are aimed towards enterprise software development and even those that do relate to the games industry, often only do so in passing. Because of this, it has been challenging to find the information I need to directly answer my research question.  
+
+The rest of the week I have spent working on the game, mainly adding small features such as the ability to toggle the shield on and off. I feel limited by my poor understanding of unreal and its features, as well as finding blueprint’s somewhat confusing to work in. This has made me unconfident in creating large features or systems for the game, as I tend to waste time on small errors and researching simple problems. I think that only practice will really help improve this, and possibly working on personal Unreal projects at home would help to solidify my understanding.
+
+## Week 6
+Preparation for the show and tell day has dominated this week, as we wanted to improve the game as much as possible while also getting the necessary trailer and presentation created. There wasn’t much organisation in our team regarding the preparation. There were certainly some communication issues as both our animator and I ended up making cinematics for the trailer.   
+
+Most of my time this week was spent creating the trailer using the Unreal sequencer and camera tracks. Unfortunately, on the Friday of the hand-in, only a handful of team members turned up, so a lot of responsibility fell on my fellow programmer Louis and I. Despite this, we managed to pull together the cinematics, gameplay footage, music and last-minute voice acting to complete the trailer. 
+
+## Week 7
+This has mainly been a week of practice and rehearsal. With two presentations (the software engineering research and the show and tell day) approaching, the majority of my time was spent preparing for these. Because the slides for the show and tell day were completed fairly late, we didn’t have time to edit them as much as I would have liked. This led to some timing issues that required a lot of practice and trial and error to get right.   
+
+The actual show and tell went better than expected, however we did run out of time for the full presentation, even though we had been able to present within the time during rehearsals. In future, I will err on the side of finishing too early when I plan a presentation, as there are numerous variables that can and likely will make the real one take longer than expected.
+
+## Week 8 
+Due to the software engineering essay, I didn’t spend a huge amount of time on the group game project this week. Mainly, I looked at creating a child of the triggerBox class that was designed to be assigned a dialogue script that will then be played when the box is triggered. 
+
+At the request of our writer who is working on the dialogue, I initially planned to make the triggerBox freeze the player’s movement until the dialogue had finished. However, as this was a little more complex than I had initially thought, and we don’t have long left, I decided to work on more vital areas of the game instead. Having to balance realistic goals with the requests of the team has been one of the more common challenges I have faced.
+
+## Week 9
+I spent most of my time replacing the default Unreal model with the new one this week. I also had to quickly learn about how to implement animations via animation blueprints and create one for the player.
+Although this worked out fine, I feel that it could have been beneficial for our animator to have learnt how to do this, (perhaps we could have sat down together and worked it out) as this would allow him to add his own animations to the models – a fairly non-technical task – which would free me up to deal with more programming-related issues. I definitely could have taken the initiative to teach him what I was learning about animation blueprints which would also have given him a valuable skill for his later projects.  
+
+However, this was something of a trend among the non-programmers; a reluctance to get involved with any “code” or “programming”, deferring all technical issues to the programmers. In our next project, I think that making sure everyone has a basic understanding of the engine and how to program very simple elements would help everyone be more comfortable with being more independent.
+
+## Week 10
+Working on the controller game, the biggest challenge I faced was realising that the 3-axis accelerometer I was using could not be used to calculate yaw (only roll and pitch) without additional sensors. Earlier in development, I had noticed issues with yaw calculations, but not paid much attention to it as 1. Yaw movement worked enough in my very rough tests for me to put it down to “working but needs more precision” and 2. Once I had the vague ability to control the game, there were much larger issues that needed to be tackled such as collision and shooting.  
+
+I also feel that my general lack of interest in the hardware side of the project may have contributed to me focusing on the programming, rather than perfecting the controller. To deal with the yaw issue, I simply moved the sensor from the chair to the user’s body. This allowed me to use roll in place of yaw for my movement detection. This was a simple and lazy fix, but I didn’t have time for a more sophisticated approach. In the future, paying more attention to the assignment brief (working controller) over personal preference (software and programming) would have allowed me to identify this issue earlier and find a better solution.
+
+## Week 11
+With the two big deadlines over, this week has been fairly relaxed. In addition to working on the CPD assignment, I have also given thought to our summer world building assignment, after the lecture detailing it. This is a very interesting project, especially as it steps outside the usual scope of our programming course, and I think that giving people the chance to plan and possibly influence their game from this early stage could help to build excitement and investment in the games – something that was lacking in our team for this year’s group project.
 
