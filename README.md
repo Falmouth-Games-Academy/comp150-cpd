@@ -99,9 +99,13 @@ This week has been really productive for me. I realise that we’ve made so litt
 ## Week 6 – 05/03/18
 
 Art assets are finally being put into the game! It’s amazing how different the game looks and feels now. It’s still not great but I’m just happy we’ll have something to show in the presentation next week. I’ve continued to work on the different player mechanics and Ryan managed to implement some of the powerups into the game which is great! Beren’s working on the HUD and that seems to be coming along well. I added a night version of the main map and our PO seems to really like it which is good. 
-Week 7 – 12/03/18
+
+## Week 7 – 12/03/18
+
 Well the Show and Tell was a bit depressing, I don’t think our game was the worst but there were a lot that were better than ours. Sam and Max did a good job presenting it though, I just wish they had more to show off. Communication hasn’t been our teams’ strong point, I was hoping that my contributions would incentivise other members to start working more but with the exception of Ryan, that doesn’t seem to have happened. I’m slightly worried that I’ll end up doing too much because nobody else wants to. On the plus side, Jamie gave me some help with the shotgun ability and gave me a piece of code that works really well for that mechanic. It’s much more efficient than my way of doing it and that’s been really useful for me to help me recognise that using C++ can be much better than relying on blueprints just because they’re easier.
-Week 8- 19/03/18
+
+## Week 8- 19/03/18
+
 I spent most of my time over the weekend and the start of this week doing my Software Engineering Essay. I found it particularly difficult researching my topic about test-driven development (TDD) in games. There appears to be very little academic research in the specific subject of games using TDD so I had to use a lot of grey literature to find out more information. This also meant that reaching a definitive conclusion was near impossible considering how opinions on TDD in the games industry vary significantly from person to person.
 I’ve noticed a bit of a lag issue with the shotgun ability if you set the spread amount and spread angle really high. It’s not really an issue because the final game won’t have the variables that high but it’s a problem that might have affected things later on if the scope of the game was bigger.  I’ve also started to work on the sheep melee attack again. There were some issues with the first attempt at making it so I’m trying another way. Basically the way it works is by spawning an actor (the weapon) that collides with another character and causes damage. The problem is it doesn’t follow the sheep when the sheep is moving so I’m trying to make the weapon a childactor of the sheep and turn the visibility and collisions of the weapon on/off as an attack. 
 
