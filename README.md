@@ -1,5 +1,37 @@
 # COMP150 - Reflective Journal to Accompany My CPD Report
 
+http://journal.falmouth.ac.uk/jc220866/comp150-cpd-part-a-weekly-report/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You should reflect across the first 13 weeks of the course. This is the period from induction week to the Winter vacation. In your reflections, you should try to identify at least one challenge that you experienced and/or obstacle that you encountered that week. Consider which skills and/or characteristics that challenge/obstacle relates to. 
 
 This will prove to be a considerable aid when you need to identify the most important areas of personal development in your report. Do try to keep up by completing an entry in the journal every week.
